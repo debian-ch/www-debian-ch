@@ -1,0 +1,65 @@
+body {
+  width: 36em;
+  margin: auto;
+}
+
+#langselect {
+  font-size: x-small;
+}
+
+#postlang {
+  display: none;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: #900;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: underline;
+}
+
+pre {
+  color: #000;
+  background-color: #bbb;
+  padding: 0.5em;
+  border: 1px dotted #888;
+  overflow: auto;
+}
+
+h1, h2, h3, h4, h5¸ h6 {
+  font-variant: small-caps;
+  background-color: transparent;
+  border-bottom: 1px solid #366;
+  margin-bottom: 0.25em;
+  color: #366;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#patrons {
+  margin: 1em 0 0;
+}
+
+#patrons thead {
+  background-color: #366;
+  color: #fff;
+  font-weight: bolder;
+}
+
+#patrons tr {
+  border-bottom: 1px solid #366;
+}
+
+#patrons td {
+  padding: 0.25em 0;
+}
