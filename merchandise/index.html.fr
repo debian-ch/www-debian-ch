@@ -10,7 +10,7 @@
 	<meta name="description" content="Page du matériel promotionnel debian.ch" />
 	<meta name="translator" content="mailto:didier@raboud.com" />
 	<link rev="made" href="mailto:info@debian.ch" />
-	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="../style.css" type="text/css" />
     </head>
     <body>
 	<p id="langselect">[

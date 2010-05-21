@@ -10,7 +10,7 @@
         <meta name="description" content="debian.ch 2010 Call for designs" />
         <meta name="translator" content="mailto:luca@pca.it" />
         <link rev="made" href="mailto:info@debian.ch" />
-        <link rel="stylesheet" href="style.css" type="text/css" />
+        <link rel="stylesheet" href="../style.css" type="text/css" />
     </head>
     <body>
         <!--p id="langselect">[
