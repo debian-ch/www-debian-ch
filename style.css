@@ -1,6 +1,10 @@
 body {
   width: 36em;
   margin: auto;
+  background-image: url(debian-swirl.png);
+  background-position: top left;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
 }
 
 #langselect {
@@ -16,13 +20,17 @@ p {
 }
 
 a {
-  color: #900;
+  color: #d9137a;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
   text-decoration: underline;
+}
+
+ul {
+    list-style-image: url(debian-dot.png);
 }
 
 pre {
@@ -34,11 +42,12 @@ pre {
 }
 
 h1, h2, h3, h4, h5¸ h6 {
-  font-variant: small-caps;
+#  font-variant: small-caps;
+  font-family: sans-serif;
   background-color: transparent;
   border-bottom: 1px solid #366;
   margin-bottom: 0.25em;
-  color: #366;
+  color: #666;
 }
 
 table {
@@ -51,7 +60,7 @@ table {
 }
 
 #patrons thead {
-  background-color: #366;
+  background-color: #999;
   color: #fff;
   font-weight: bolder;
 }
@@ -62,52 +71,4 @@ table {
 
 #patrons td {
   padding: 0.25em 0;
-}
-
-#tshirts {
-  margin: 1em 0 0;
-}
-
-#tshirts thead {
-  background-color: #366;
-  color: #fff;
-  font-weight: bolder;
-}
-
-#tshirts tr {
-  border-bottom: 1px solid #366;
-}
-
-#tshirts td {
-  padding: 0.25em 0;
-}
-
-#tshirts img {
-  vertical-align: middle;
-  border: 0;
-  width: 50px;
-}
-
-#foilstickers {
-  margin: 1em 0 0;
-}
-
-#foilstickers thead {
-  background-color: #366;
-  color: #fff;
-  font-weight: bolder;
-}
-
-#foilstickers tr {
-  border-bottom: 1px solid #366;
-}
-
-#foilstickers td {
-  padding: 0.25em 0;
-}
-
-#foilstickers img {
-  vertical-align: middle;
-  border: 0;
-  width: 50px;
 }
