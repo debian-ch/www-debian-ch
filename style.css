@@ -1,10 +1,9 @@
 body {
   width: 36em;
   margin: auto;
-  background-image: url(debian-swirl.png);
+  background-image: url(img/debian-swirl.png);
   background-position: top left;
   background-repeat: repeat-y;
-  background-attachment: fixed;
 }
 
 #langselect {
@@ -30,7 +29,7 @@ a:hover, a:active, a:focus {
 }
 
 ul {
-    list-style-image: url(debian-dot.png);
+    list-style-image: url(img/debian-dot.png);
 }
 
 pre {
