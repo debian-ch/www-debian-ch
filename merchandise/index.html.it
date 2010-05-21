@@ -14,9 +14,9 @@
     </head>
     <body>
         <p id="langselect">[
-        <a href="index.de.html">deutsch</a> |
-        <a href="index.fr.html">français</a> |
-        <a href="index.en.html">english</a>
+        <a href="index.html.de">deutsch</a> |
+        <a href="index.html.fr">français</a> |
+        <a href="index.html.en">english</a>
         ]</p>
         <hr id="postlang" />
 
