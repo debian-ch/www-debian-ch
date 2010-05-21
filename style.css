@@ -75,3 +75,52 @@ table {
 img {
   border: none;
 }
+
+
+#tshirts {
+  margin: 1em 0 0;
+}
+
+#tshirts thead {
+  background-color: #366;
+  color: #fff;
+  font-weight: bolder;
+}
+
+#tshirts tr {
+  border-bottom: 1px solid #366;
+}
+
+#tshirts td {
+  padding: 0.25em 0;
+}
+
+#tshirts img {
+  vertical-align: middle;
+  border: 0;
+  width: 50px;
+}
+
+#foilstickers {
+  margin: 1em 0 0;
+}
+
+#foilstickers thead {
+  background-color: #366;
+  color: #fff;
+  font-weight: bolder;
+}
+
+#foilstickers tr {
+  border-bottom: 1px solid #366;
+}
+
+#foilstickers td {
+  padding: 0.25em 0;
+}
+
+#foilstickers img {
+  vertical-align: middle;
+  border: 0;
+  width: 50px;
+}
