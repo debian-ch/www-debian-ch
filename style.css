@@ -42,7 +42,6 @@ pre {
 }
 
 h1, h2, h3, h4, h5¸ h6 {
-#  font-variant: small-caps;
   font-family: sans-serif;
   background-color: transparent;
   border-bottom: 1px solid #366;
@@ -71,4 +70,8 @@ table {
 
 #patrons td {
   padding: 0.25em 0;
+}
+
+img {
+  border: none;
 }
