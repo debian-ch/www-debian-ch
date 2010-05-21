@@ -44,9 +44,9 @@ pre {
 h1, h2, h3, h4, h5¸ h6 {
   font-family: sans-serif;
   background-color: transparent;
-  border-bottom: 1px solid #366;
+  border-bottom: 1px solid black;
   margin-bottom: 0.25em;
-  color: #666;
+  color: #d9137a;
 }
 
 table {
@@ -59,13 +59,13 @@ table {
 }
 
 #patrons thead {
-  background-color: #999;
+  background-color: #d9137a;
   color: #fff;
   font-weight: bolder;
 }
 
 #patrons tr {
-  border-bottom: 1px solid #366;
+  border-bottom: 1px solid black;
 }
 
 #patrons td {
