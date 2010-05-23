@@ -11,6 +11,7 @@
         <meta name="translator" content="mailto:luca&#37;&#52;&#48;pca&#46;it" />
         <link rev="made" href="mailto:info&#37;&#52;&#48;debian&#46;ch" />
         <link rel="stylesheet" href="style.css" type="text/css" />
+        <link rel="shortcut icon" href="img/favicon.ico" />
     </head>
     <body>
         <p id="langselect">[

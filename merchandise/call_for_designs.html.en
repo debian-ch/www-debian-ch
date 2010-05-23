@@ -11,6 +11,7 @@
         <meta name="translator" content="mailto:luca@pca.it" />
         <link rev="made" href="mailto:info@debian.ch" />
         <link rel="stylesheet" href="../style.css" type="text/css" />
+        <link rel="shortcut icon" href="../img/favicon.ico" />
     </head>
     <body>
         <!--p id="langselect">[
