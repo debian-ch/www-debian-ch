@@ -29,15 +29,15 @@
         selon la législation Suisse (<a href="statuten.pdf">Les statuts, en
           allemand</a>).</p>
 
-        <p>Contactez-nous par:</p>
+        <p>Contactez-nous par :</p>
 
         <ul>
-            <li>Courriel: <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
-            <li>Poste: <address><br/>debian.ch<br/>c/o Adrian von Bidder<br/>Spalentorweg 55<br/>4051 Bâle</address></li>
-            <li>Numéro de compte pour les dons depuis la Suisse:
+            <li>Courriel : <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
+            <li>Poste : <address><br/>debian.ch<br/>c/o Adrian von Bidder<br/>Spalentorweg 55<br/>4051 Bâle</address></li>
+            <li>Numéro de compte pour les dons depuis la Suisse :
                 Compte PostFinance <em>85-361360-7</em>, nom <em>debian.ch</em>.<br/>
                 Merci de garder à l'esprit que la Poste nous facture
-                1.80&nbsp;CHF par versement en liquide au guichet postal.
+                1.80 CHF par versement en liquide au guichet postal.
             </li>
             <li>Les <a href="http://www.postfinance.ch/pf/content/fr/seg/biz/product/pay/internat/inbound.html" target="_blank">virements internationaux</a>
                 sont à effectuer sur sur le compte <em>debian.ch</em> (IBAN <em>CH12 0900 0000 8536 1360 7</em>)
@@ -45,7 +45,7 @@
                 L'adresse du bénéficiaire est la même que l'adresse postale ci-dessus.<br/>
                 L'adresse de la banque est :<br/><address>La Poste Suisse – PostFinance<br/>Nordring 8<br/>3030 Berne<br/>Suisse</address>
             </li>
-            <li>Renseignements pour les dons: <a
+            <li>Renseignements pour les dons : <a
               href="mailto:donate&#37;&#52;&#48;debian&#46;ch">donate<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
         </ul>
 
@@ -62,9 +62,9 @@
 
         <p>Conformément à l'article 4 de nos <a href="statuten.pdf">statuts
             (en allemand)</a>, les personnes ou entreprises faisant un don de
-        plus de 100&nbsp;CHF peuvent être reconnues comme parrains de
+        plus de 100 CHF peuvent être reconnues comme parrains de
         l'association pour une année. Les personnes/entreprises suivantes nous
-        ont fait parvenir un don significatif:</p>
+        ont fait parvenir un don significatif :</p>
 
         <table id="patrons">
             <thead>
