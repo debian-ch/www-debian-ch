@@ -167,6 +167,28 @@
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
                 </tr>
+                <!-- added: 2010.06.17 abe -->
+                <tr>
+                    <td rowspan="3"><a
+                        href="img/foilstickers/Horned_Debian_Swirl.jpg"><img
+                        src="img/foilstickers/Horned_Debian_Swirl.small.jpg"
+                        alt="The Debian Swirl with BSD horns" align="left"
+                        /> Geh&ouml;rnter Debian Swirl<br />(Debian GNU/kFreeBSD Logo)</a></td>
+
+                    <td>ca. 23.5 x 30.0 mm</td>
+                    <td>2 CHF</td>
+                    <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
+                </tr>
+                <tr>
+                    <td>ca. 47.0 x 60.0 mm</td>
+                    <td>5 CHF</td>
+                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                </tr>
+                <tr>
+                    <td>ca. 94.0 x 120.0 mm</td>
+                    <td>10 CHF</td>
+                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                </tr>
             </tbody>
         </table>
     </body>
