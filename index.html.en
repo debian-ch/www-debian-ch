@@ -80,6 +80,11 @@
                     <td>Winterthur</td>
                     <td><a href="http://www.michael-nydegger.ch">http://www.michael-nydegger.ch</a></td>
                 </tr>
+                <tr> <!-- added: 2010.11.30 mfr -->
+                    <td>Camptocamp SA</td>
+                    <td>Lausanne</td>
+                    <td><a href="http://www.camptocamp.com">http://www.camptocamp.com</a></td>
+                </tr>
             </tbody>
         </table>
 
