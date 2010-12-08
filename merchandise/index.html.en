@@ -52,7 +52,7 @@
                     <td><a
                         href="img/tshirts/debian.ch_classic.png"><img
                         src="img/tshirts/debian.ch_classic.png"
-		        alt="debian.ch classic design" />
+                        alt="debian.ch classic design" />
                         debian.ch classic</a></td>
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/debian.ch_classic_Akira.jpg">1</a>
@@ -61,9 +61,9 @@
                 </tr>
                 <tr> <!-- added: 2009.02.23 gismo -->
                     <td><a
-		        href="img/tshirts/debian.ch_fusion.png"><img
+                        href="img/tshirts/debian.ch_fusion.png"><img
                         src="img/tshirts/debian.ch_fusion.png"
-		        alt="debian.ch fusion design" />
+                        alt="debian.ch fusion design" />
                         debian.ch fusion</a></td>
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/debian.ch_fusion_Lixette.jpg">1</a>
@@ -73,7 +73,7 @@
                     <td><a
                         href="img/tshirts/apt-get_install_anarchism.png"><img
                         src="img/tshirts/apt-get_install_anarchism.png"
-		        alt="apt-get install anarchism design" />
+                        alt="apt-get install anarchism design" />
                         apt-get install anarchism</a></td>
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/apt-get_install_anarchism_Patrick.jpg">1</a>
@@ -93,7 +93,7 @@
         with a special kind of a plotter. Thus, there is no white,
         transparent or whatever background at all, just the foil.</p>
 
-	<p>For each sticker, shipping within Switzerland costs
+        <p>For each sticker, shipping within Switzerland costs
         1.50 CHF, while within Europe it costs 3 CHF.</p>
 
         <table id="foilstickers">
@@ -215,7 +215,7 @@
                     <td><a
                         href="img/umbrellas/Debian_openlogo-100_alpha.png"><img
                         src="img/umbrellas/Debian_openlogo-100_alpha.png"
-		        alt="Debian openlogo on white background" />
+                        alt="Debian openlogo on white background" />
                         Debian openlogo on white background</a></td>
                     <td>25 CHF</td>
                     <td><a href="img/umbrellas/debianumbrella1.jpg">1</a>
