@@ -32,16 +32,15 @@
         like to resell them, let us know and we will find a
         solution.</p>
 
-        <p>Shipping prices within Switzerland are 3 CHF for each T-Shirt
-        and 1.50 CHF for each sticker.  Shipping prices within Europe are
-        8 CHF for each T-Shirt and 3 CHF for each sticker.</p>
-
         <p>If you have more photos showing the material below, please
         send an email to <a
         href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>
         and we will link to them!</p>
 
         <h2>T-Shirts</h2>
+
+        <p>For each T-Shirt, shipping within Switzerland costs 3 CHF,
+        while within Europe it costs 8 CHF.</p>
 
         <table id="tshirts">
             <thead>
@@ -93,6 +92,9 @@
         <p>A foillabel is a glued foil which will be cut into shapes
         with a special kind of a plotter. Thus, there is no white,
         transparent or whatever background at all, just the foil.</p>
+
+	<p>For each sticker, shipping within Switzerland costs
+        1.50 CHF, while within Europe it costs 3 CHF.</p>
 
         <table id="foilstickers">
             <thead>
