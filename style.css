@@ -121,3 +121,27 @@ img {
   border: 0;
   width: 50px;
 }
+
+#umbrellas {
+  margin: 1em 0 0;
+}
+
+#umbrellas thead {
+  background-color: #366;
+  color: #fff;
+  font-weight: bolder;
+}
+
+#umbrellas tr {
+  border-bottom: 1px solid #366;
+}
+
+#umbrellas td {
+  padding: 0.25em 0;
+}
+
+#umbrellas img {
+  vertical-align: middle;
+  border: 0;
+  width: 50px;
+}

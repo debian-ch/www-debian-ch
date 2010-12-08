@@ -190,6 +190,40 @@
                 </tr>
             </tbody>
         </table>
+
+        <h2>Umbrellas</h2>
+
+        <p>The best thing is to order <big>at least three
+        umbrellas</big>, given that shipping for one umbrella is
+        insanely expensive in relation to the cost of the umbrella.
+        Shipping for three umbrellas is 7 CHF in Switzerland, 12.50
+        CHF in Europe and 18 CHF worldwide (double this for up to 6
+        umbrellas).  One umbrella is around 220 g, and you can look at
+        the <a
+        href="http://www.post.ch/en/post-startseite/post-privatkunden/post-versenden/post-pakete-international/post-preise-pk-pakete-international/post-preise-economy-pakete-international.htm">Swiss
+        Post web site</a> for shipping prices, but please confirm your
+        conclusion with <a
+        href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
+
+        <table id="umbrellas">
+            <thead>
+                <tr><td>Design</td><td>Price</td><td>Action
+                    shots</td></tr>
+            </thead>
+            <tbody>
+                <tr> <!-- added: 2010.12.08 gismo -->
+                    <td><a
+                        href="img/umbrellas/Debian_openlogo-100_alpha.png"><img
+                        src="img/umbrellas/Debian_openlogo-100_alpha.png"
+		        alt="Debian openlogo on white background" />
+                        Debian openlogo on white background</a></td>
+                    <td>25 CHF</td>
+                    <td><a href="img/umbrellas/debianumbrella1.jpg">1</a>
+                        <a href="img/umbrellas/debianumbrella2.jpg">2</a></td>
+                </tr>
+            </tbody>
+        </table>
+
     </body>
 </html>
 
