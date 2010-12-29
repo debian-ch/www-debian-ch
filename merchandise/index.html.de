@@ -3,11 +3,11 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
     <head>
-        <title>debian.ch Merchandise</title>
+        <title>debian.ch Fan-Artikel</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="imagetoolbar" content="no" />
         <meta name="author" content="debian.ch" />
-        <meta name="description" content="debian.ch merchandise page" />
+        <meta name="description" content="debian.ch Fan-Artikel" />
         <meta name="translator" content="mailto:abe+debian.ch@deuxchevaux.org" />
         <link rev="made" href="mailto:info@debian.ch" />
         <link rel="stylesheet" href="../style.css" type="text/css" />
@@ -21,7 +21,7 @@
         ]</p>
         <hr id="postlang" />
 
-        <h1>debian.ch Merchandise</h1>
+        <h1>debian.ch Fan-Artikel</h1>
 
         <p>debian.ch produziert diverse Artikel welche auf
         Veranstaltungen in der Schweiz verkauft werden.<br />
