@@ -76,7 +76,7 @@
                     <td>Stettfurt</td>
                     <td></td>
                 </tr>
-                <tr> <!-- added: 2009.12.29 mfk -->
+                <tr> <!-- added: 2010.12.29 mfk -->
                     <td>Michael Nydegger</td>
                     <td>Winterthur</td>
                     <td><a href="http://www.michael-nydegger.ch">http://www.michael-nydegger.ch</a></td>
