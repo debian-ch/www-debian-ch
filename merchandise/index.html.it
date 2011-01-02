@@ -3,7 +3,7 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
     <head>
-        <title>Prodotti debian.ch</title>
+        <title>Materiale Promozionale debian.ch</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="imagetoolbar" content="no" />
         <meta name="author" content="debian.ch" />
@@ -21,27 +21,42 @@
         ]</p>
         <hr id="postlang" />
 
-        <h1>debian.ch Merchandise</h1>
+        <h1>Materiale Promozionale debian.ch</h1>
 
         <p>debian.ch vende vari prodotti durante esposizioni/incontri
-        in Svizzera.<br /> Gli stessi prodotti sono disponibili per
-        chiunque non potesse essere presente a questi eventi, basta
-        mandare un'e-mail con tutti i dettagli a <a
-        href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.
+        in Svizzera.<br />
         Nel caso un Linux User Group volesse rivendere questi
         prodotti, contattateci e troveremo una soluzione.</p>
 
-        <p>La spedizione in Svizzera costa 3 CHF per ogni T-Shirt e
-        1.50 CHF per ogni adesivo.  La spedizione all'interno dell'Europa
-          costa invece 8 CHF per ogni T-Shirt e 3 CHF per ogni
-          adesivo.</p>
+        <p>Gli stessi prodotti sono disponibili tramite spedizione
+        postale.  Per ordinarli basta trasferire la somma totale
+        (prezzo di ogni singolo prodotto, spese di spedizione,
+        eventuali donazioni…) sul nostro conto bancario (i dettagli
+        sono disponibili alla <a href="../">pagina principale</a>) e,
+        dopo qualche giorno, <a
+            href="mailto:info&#37;&#52;&#48;debian&#46;ch">inviarci
+                un'email</a>.</p>
+
+        <p>In accordo col nostro <a href="statuten.pdf">statuto (in
+            tedesco)</a>, il denaro che debian.ch possiede è
+        utilizzato in vari modi per il progetto Debian, ad esempio
+        partecipando ad eventi o finanziando <a
+            href="http://wiki.debian.org/BSP">Bug Squashing
+                Parties</a>.</p>
 
         <p>Se avete delle foto che mostrano i prodotti sottoelencati,
         per favore mandate un'email a <a
         href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>
         e le aggiungeremo!</p>
 
+        <p>È consigliabile anche visitare la <a
+            href="http://wiki.debian.org/Merchandise">pagina generale
+                di materiale promozionale Debian</a>.</p>
+
         <h2>T-Shirts</h2>
+
+        <p>Per ogni T-Shirt, le spese di spedizione per la Svizzera
+        sono di 3 CHF, mentre per l'Europa sono di 3 CHF.</p>
 
         <table id="tshirts">
             <thead>
@@ -93,6 +108,9 @@
         con un plotter speciale seguendo la forma dello swirl Debian.
         Quindi, non c'è alcuno sfondo bianco o trasparente.</p>
 
+        <p>Per ogni adesivo, le spese di spedizione per la Svizzera
+        sono di 1.50 CHF, mentre per l'Europa sono di 3 CHF.</p>
+
         <table id="foilstickers">
             <thead>
                 <tr><td>Motivo</td><td>Dimensione</td><td>Prezzo</td><td>Fotografie</td></tr>
@@ -113,12 +131,12 @@
                 <tr>
                     <td>47.0 x 60.0 mm</td>
                     <td>5 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a></td>
                 </tr>
                 <tr>
                     <td>94.0 x 120.0 mm</td>
                     <td>10 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td><a href="img/foilstickers/HD-883_swirl.640.jpg">1</a></td>
                 </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
@@ -157,15 +175,76 @@
                 <tr>
                     <td>72.5 x 23.5 mm</td>
                     <td>5 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a>
+                        <a href="img/foilstickers/Apple_MacBook_word-black.640.jpg">2</a></td>
                 </tr>
                 <tr>
                     <td>145.0 x 47.0 mm</td>
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
                 </tr>
+                <!-- added: 2011.01.02 gismo -->
+                <tr>
+                    <td rowspan="3"><a
+                        href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
+                        src="img/foilstickers/Debian_kFreeBSD_swirl.png"
+                        alt="Motivo Debian swirl con le corna BSD" align="left"
+                        /> Debian Swirl con le corna BSD<br />(logo Debian GNU/kFreeBSD)</a></td>
+
+                    <td>ca. 23.5 x 30.0 mm</td>
+                    <td>2 CHF</td>
+                    <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
+                </tr>
+                <tr>
+                    <td>ca. 47.0 x 60.0 mm</td>
+                    <td>5 CHF</td>
+                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                </tr>
+                <tr>
+                    <td>ca. 94.0 x 120.0 mm</td>
+                    <td>10 CHF</td>
+                    <td><a href="img/foilstickers/ASUS-EeePC_horned-swirl.640.jpg">1</a>
+                        <a href="img/foilstickers/Volvo-850_horned-swirl.640.jpg">2</a></td>
+                </tr>
             </tbody>
         </table>
+        <h2>Ombrelli</h2>
+
+        <p>Si tratta di un ombrello da tenere in borsa, il che
+        significa che è relativamente piccolo quando è chiuso.</p>
+
+        <p>Visto che le spese di spedizione per un singolo ombrello
+        sono esorbitanti rispetto al costo dell'ombrello stesso, è
+        meglio ordinare <big>almeno tre ombrelli</big>.  Le spese di
+        spedizione per tre ombrelli sono di 7 CHF per la Svizzera,
+        12.50 CHF per l'Europa e 18 CHF per il resto del mondo
+        (raddoppiale per 6 ombrelli).  Un ombrello pesa intorno ai
+        220 g, quindi le spese di spedizione possono essere calcolate
+        sul <a
+            href="http://www.post.ch/it/post-startseite/post-privatkunden/post-versenden/post-pakete-international/post-preise-pk-pakete-international/post-preise-economy-pakete-international.htm">sito
+        della Posta Svizzera</a>, ma devono essere confermate inviando
+        un'email a <a
+            href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
+
+        <table id="umbrellas">
+            <thead>
+                <tr><td>Design</td><td>Price</td><td>Action
+                    shots</td></tr>
+            </thead>
+            <tbody>
+                <tr> <!-- added: 2011.01.02 gismo -->
+                    <td><a
+                        href="img/umbrellas/Debian_openlogo-100_alpha.png"><img
+                        src="img/umbrellas/Debian_openlogo-100_alpha.png"
+                        alt="Openlogo Debian su sfondo bianco" />
+                        Openlogo Debian su sfondo bianco</a></td>
+                    <td>25 CHF</td>
+                    <td><a href="img/umbrellas/debianumbrella1.jpg">1</a>
+                        <a href="img/umbrellas/debianumbrella2.jpg">2</a></td>
+                </tr>
+            </tbody>
+        </table>
+
     </body>
 </html>
 
