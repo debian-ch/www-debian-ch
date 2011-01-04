@@ -58,6 +58,14 @@
         href="http://www.debian.org/support">le site web de Debian</a> pour
         connaître les moyens d'obtenir du support (commercial ou gratuit).</p>
 
+        <h2>Matériel promotionnel</h2>
+
+        <p>Au nom du projet Debian, debian.ch produit et vend du <a
+            href="merchandise/">matériel promotionnel Debian</a>. Les
+        bénéfices ainsi récoltés sont intégralement reversés au projet
+        Debian.</p>
+
+
         <h2>Parrains</h2>
 
         <p>Conformément à l'article 4 de nos <a href="statuten.pdf">statuts

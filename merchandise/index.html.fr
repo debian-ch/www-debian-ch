@@ -3,7 +3,7 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
     <head>
-	<title>Matériel promotionnel Debian.ch</title>
+	<title>Matériel promotionnel debian.ch</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="imagetoolbar" content="no" />
 	<meta name="author" content="debian.ch" />
@@ -23,24 +23,39 @@
 
 	<h1>Matériel promotionnel debian.ch</h1>
 
-	<p>debian.ch propose différents articles destinés à être vendus aux
-	expositions/rencontres en Suisse.<br />Ils sont accessible également à
-	ceux qui ne viennent pas à ces événements, envoyez simplement votre
-	demande détaillée à <a
-	href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.
-	Si vous êtes en charge d'un Groupe d'Utilisateurs Linux et que vous voudriez
-	revendre ces articles, contactez nous !</p>
+	<p>debian.ch produit différents articles destinés à être vendus aux
+	expositions/rencontres en Suisse.<br />
+	Si vous êtes en charge d'un Groupe d'Utilisateurs Linux et que vous
+        voudriez revendre ces articles, contactez nous pour convenir d'une
+        solution !</p>
 
-        <p>Les prix pour les envois en Suisse sont 3 CHF par T-Shirt et
-        1.50 CHF par autocollant.  Au contraire, les envois en Europe
-        coûtent 8 CHF par T-Shirt et 3 CHF par autocollant.</p>
+        <p>Il est également possible d'acquérir ces articles par voie postale :
+        transférez la somme exacte (incluant prix des articles, frais d'envois,
+        dons éventuels…) sur notre compte (dont les détails sont accessibles
+        sur la <a href="../">page d'accueil</a>) et <a
+        href="mailto:info&#37;&#52;&#48;debian&#46;ch">envoyez-nous un
+        courriel</a> quelques jours plus tard</p>
+
+        <p>Conformément à nos <a href="../statuten.pdf">statuts (en
+        allemand)</a>, tout l'argent que possède debian.ch est activement
+        utilisé pour soutenir le projet Debian sous diverses formes, par
+        exemple en participant à des évènements ou en soutenant financièrement
+        des <a href="http://wiki.debian.org/BSP">fêtes de chasse aux bugs
+        (BSP)</a>.</p>
 
 	<p>Si vous avez d'autres photos des articles ci-dessous, envoyez-nous un
 	courriel à <a
 	href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>
 	et nous les mettrons ici !</p>
+        
+	<p>Jetez également un coup d'œil à la <a
+        href="http://wiki.debian.org/Merchandise">page wiki générale des
+        articles promotionnels Debian</a>.</p>
 
 	<h2>T-Shirts</h2>
+
+        <p>Les frais d'envoi par T-shirt s'élèvent à 3 CHF pour les envois en
+        Suisse et à 8 CHF pour les envois en Europe.</p>
 
 	<table id="tshirts">
 	    <thead>
@@ -92,6 +107,9 @@
 	à la forme du <em>swirl</em> Debian. Ils n'ont donc pas de fond blanc
 	ni aucun fond d'ailleurs.</p>
 
+        <p>Les frais d'envoi par autocollant s'élèvent à 1.50 CHF pour les envois en
+        Suisse et à 3 CHF pour les envois en Europe.</p>
+
 	<table id="foilstickers">
 	    <thead>
 		<tr><td>Dessin</td><td>Taille</td><td>Prix</td><td>Photos</td></tr>
@@ -112,13 +130,13 @@
 		<tr>
 		    <td>47.0 x 60.0 mm</td>
 		    <td>5 CHF</td>
-		    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a></td>
 		</tr>
 		<tr>
 		    <td>94.0 x 120.0 mm</td>
 		    <td>10 CHF</td>
-		    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
-		</tr>
+		    <td><a href="img/foilstickers/HD-883_swirl.640.jpg">1</a></td>
+                </tr>
 		<!-- added: 2009.02.23 gismo -->
 		<tr>
 		    <td rowspan="3"><a
@@ -156,15 +174,80 @@
 		<tr>
 		    <td>72.5 x 23.5 mm</td>
 		    <td>5 CHF</td>
-		    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a>
+                        <a href="img/foilstickers/Apple_MacBook_word-black.640.jpg">2</a></td>
 		</tr>
 		<tr>
 		    <td>145.0 x 47.0 mm</td>
 		    <td>10 CHF</td>
 		    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
 		</tr>
+                <!-- added: 2011.01.02 gismo -->
+                <tr>
+                    <td rowspan="3"><a href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
+                        src="img/foilstickers/Debian_kFreeBSD_swirl.png"
+                        alt="Logo Debian avec les cornes BSD" align="left"
+                        /> Logo Debian avec les cornes BSD<br />(logo Debian GNU/kFreeBSD)</a></td>
+
+                    <td>ca. 23.5 x 30.0 mm</td>
+                    <td>2 CHF</td>
+                    <td><!-- <a
+href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
+                </tr>
+                <tr>
+                    <td>ca. 47.0 x 60.0 mm</td>
+                    <td>5 CHF</td>
+                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a>
+--></td>
+                </tr>
+                <tr>
+                    <td>ca. 94.0 x 120.0 mm</td>
+                    <td>10 CHF</td>
+                    <td><a
+href="img/foilstickers/ASUS-EeePC_horned-swirl.640.jpg">1</a>
+                        <a
+href="img/foilstickers/Volvo-850_horned-swirl.640.jpg">2</a></td>
+                </tr>
 	    </tbody>
 	</table>
+
+        <h2>Parapluies</h2>
+
+        <p>Il s'agit de parapluies pliables, donc relativement petits lorsque
+        pliés.</p>
+
+        <p>Étant donné que les frais d'envois pour un seul parapluie sont
+        démesurés par rapport à la valeur du parapluie, il est recommandé de
+        commander au moins <big>trois parapluies</big>. Les frais d'envoi pour
+        trois parapluies se montent à 7 CHF pour la Suisse, 12.50 CHF pour
+        l'Europe et 18 CHF pour le reste du monde (le prix est doublé pour
+        jusqu'à 6 parapluies). Un parapluie pèse environ 220 g, et vous pouvez
+        choisir votre mode d'envoi sur le <a
+        href="http://www.post.ch/fr/post-startseite/post-privatkunden/post-versenden/post-pakete-international/post-preise-pk-pakete-international/post-preise-economy-pakete-international.htm">site
+        de la Poste Suisse</a>. Merci de confirmer votre choix dans votre
+        courriel à <a
+        href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
+
+        <table id="umbrellas">
+            <thead>
+                <tr><td>Dessin</td><td>Prix</td><td>Photos</td></tr>
+            </thead>
+            <tbody>
+                <tr> <!-- added: 2011.01.02 gismo -->
+                    <td><a
+
+href="img/umbrellas/Debian_openlogo-100_alpha.png"><img
+                        src="img/umbrellas/Debian_openlogo-100_alpha.png"
+                        alt="Openlogo Debian sur fond blanc" />
+                        Openlogo Debian sur fond blanc</a></td>
+                    <td>25 CHF</td>
+                    <td><a href="img/umbrellas/debianumbrella1.jpg">1</a>
+                        <a
+href="img/umbrellas/debianumbrella2.jpg">2</a></td>
+                </tr>
+            </tbody>
+        </table>
+
     </body>
 </html>
 
