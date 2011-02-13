@@ -93,13 +93,23 @@
 		    <td><a href="img/tshirts/apt-get_install_anarchism_Patrick.jpg">1</a>
 			<a href="img/tshirts/apt-get_install_anarchism_Chen-Da-Patrick.jpg">2</a></td>
 		</tr>
+                <tr> <!-- added: 2011.02.13 gismo -->
+                    <td><a
+                        href="img/tshirts/spacefun_squeeze.png"><img
+                        src="img/tshirts/spacefun_squeeze.png"
+                        alt="Dessin Space Fun (thème 6.0.0/squeeze)" />
+                        Space Fun (thème 6.0.0/squeeze)</a></td>
+                    <td>25 CHF</td>
+                    <td><a href="img/tshirts/spacefun_squeeze_front_Julien.jpg">1</a>
+                        <a href="img/tshirts/spacefun_squeeze_back_Julien.jpg">2</a></td>
+                </tr>
 	    </tbody>
 	</table>
 
 	<p>Merci beaucoup à Lixette, Akira et OdyX de <a
 	href="http://swisslinux.org">Swisslinux.org</a> pour les photos des
-	T-shirts debian.ch ! Et à Chen-Da et Patrick pour les photos de
-	"apt-get install anarchism" !</p>
+	T-shirts debian.ch ! A Chen-Da et Patrick pour les photos de
+	"apt-get install anarchism" ! Et à Julien pour le "Space Fun"!</p>
 
 	<h2>Autocollants</h2>
 
