@@ -109,7 +109,7 @@
 	<p>Merci beaucoup à Lixette, Akira et OdyX de <a
 	href="http://swisslinux.org">Swisslinux.org</a> pour les photos des
 	T-shirts debian.ch ! A Chen-Da et Patrick pour les photos de
-	"apt-get install anarchism" ! Et à Julien pour le "Space Fun"!</p>
+	« apt-get install anarchism » ! Et à Julien pour le « Space Fun »!</p>
 
 	<h2>Autocollants</h2>
 
