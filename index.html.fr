@@ -21,7 +21,8 @@
         ]</p>
         <hr id="postlang" />
 
-        <h1>debian.ch</h1>
+        <h1><img src="img/debian.ch_text.png" width="425" height="100"
+                alt="debian.ch" /></h1>
 
         <p>debian.ch est la représentation officielle du <a
           href="http://www.debian.org/">projet Debian</a> en Suisse et en
