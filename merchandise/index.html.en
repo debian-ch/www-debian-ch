@@ -98,10 +98,12 @@
                         href="img/tshirts/spacefun_squeeze.png"><img
                         src="img/tshirts/spacefun_squeeze.png"
                         alt="Space Fun (6.0.0/squeeze theme) design" />
-                        Space Fun (6.0.0/squeeze theme)</a></td>
+                        Space Fun (6.0.0/squeeze theme, blue or black)</a></td>
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/spacefun_squeeze_blue_front_Julien.jpg">1</a>
-                        <a href="img/tshirts/spacefun_squeeze_blue_back_Julien.jpg">2</a></td>
+                        <a href="img/tshirts/spacefun_squeeze_blue_back_Julien.jpg">2</a>
+                        <a href="img/tshirts/spacefun_squeeze_black_front_Benoit.jpg">3</a>
+                        <a href="img/tshirts/spacefun_squeeze_black_back_Benoit.jpg">4</a></td>
                 </tr>
             </tbody>
         </table>
@@ -109,7 +111,8 @@
         <p>Many thanks to Lixette, Akira and OdyX from <a
         href="http://swisslinux.org">Swisslinux.org</a> for the
         debian.ch pictures!  To Chen-Da and Patrick for the `apt-get
-        install anarchism` ones!  And to Julien for the Space Fun!</p>
+        install anarchism` ones!  And to Julien and Benoît for the
+        Space Fun!</p>
 
         <h2>Foilstickers</h2>
 
