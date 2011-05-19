@@ -34,11 +34,7 @@
 
         <ul>
             <li>E-Mail: <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
-            <li>Posta:<br/>
-              <address>debian.ch<br/>
-		c/o Adrian von Bidder<br/>
-		Spalentorweg 55<br/>
-		4051 Basilea</address></li>
+            <li>Posta:<br/> <address>debian.ch<br/>c/o Gaudenz Steinlin<br/>Donnerbühlweg 33<br/>3012 Berne</address></li>
             <li>Conto per donazioni all'interno della Svizzera:
               conto PostFinance <em>85-361360-7</em>, beneficiario
               <em>debian.ch</em>.<br/>
