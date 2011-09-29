@@ -42,7 +42,7 @@
             </li>
             <li>Les <a href="http://www.postfinance.ch/pf/content/fr/seg/biz/product/pay/internat/inbound.html" target="_blank">virements internationaux</a>
                 sont à effectuer sur sur le compte <em>debian.ch</em> (IBAN <em>CH12 0900 0000 8536 1360 7</em>)
-                de la banque PostFinance (BIC <em>POFICHBEXXXX</em>).<br/>
+                de la banque PostFinance (BIC <em>POFICHBEXXX</em>).<br/>
                 L'adresse du bénéficiaire est la même que l'adresse postale ci-dessus.<br/>
                 L'adresse de la banque est :<br/><address>La Poste Suisse – PostFinance<br/>Nordring 8<br/>3030 Berne<br/>Suisse</address>
             </li>
