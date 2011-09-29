@@ -34,14 +34,21 @@
         <ul>
             <li>Email: <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
             <li>Post:<br/><address>debian.ch<br/>c/o Gaudenz Steinlin<br/>Donnerbühlweg 33<br/>3012 Berne</address></li>
-            <li>Account for donations from Switzerland:
-                PostFinance account <em>85-361360-7</em>, name <em>debian.ch</em>.<br/>
-                Please keep in mind that the post office charges us
-                1.80 CHF for every cash deposit.
+        </ul>
+
+        <p>Bank details:</p>
+
+        <ul>
+            <li>Account for donations from Switzerland:<br/>
+                PostFinance account <em>85-361360-7</em>, clearing-no. <em>9000</em>,
+                under the name of <em>debian.ch</em>.<br/>
+                <strong>Please keep in mind that the post office charges us
+                    1.80 CHF for every cash deposit.</strong>
             </li>
             <li><a href="http://www.postfinance.ch/pf/content/en/seg/biz/product/pay/internat/inbound.html" target="_blank">International transfers</a>
-                should go to the <em>debian.ch</em> account (IBAN <em>CH12 0900 0000 8536 1360 7</em>)
-                at the PostFinance bank (BIC <em>POFICHBEXXX</em>).<br/>
+                should be directed to:<br/>
+                IBAN: <em>CH12 0900 0000 8536 1360 7</em><br/>
+                BIC: <em>POFICHBEXXX</em><br/>
                 The beneficiary's address is the same as the postal address above.<br/>
                 The bank's address is:<br/><address>Swiss Post – PostFinance<br/>Nordring 8<br/>3030 Berne<br/>Switzerland</address>
             </li>

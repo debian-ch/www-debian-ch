@@ -33,15 +33,19 @@
         <ul>
             <li>E-Mail: <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
             <li>Post:<br/><address>debian.ch<br/>c/o Gaudenz Steinlin<br/>Donnerbühlweg 33<br/>3012 Bern</address></li>
-            <li>Spendenkonto: <em>debian.ch</em>, Postkonto <em>85-361360-7</em>.<br/>
-                Bitte nicht vergessen, dass die Post uns pro Bareinzahlung
-                1,80 CHF berechnet.
+        </ul>
+
+        <p>Bankdaten:</p>
+
+        <ul>
+            <li>Spendenkonto: Postkonto <em>85-361360-7</em>, Name <em>debian.ch</em>, Clearing-Nr. <em>9000</em>.<br/>
+                <strong>Bitte nicht vergessen, dass die Post uns pro Bareinzahlung 1,80 CHF berechnet.</strong>
             </li>
             <li><a
                 href="http://www.postfinance.ch/pf/content/de/seg/biz/product/pay/internat/inbound.html"
-                target="_top">Internationale Überweisungen</a> bitte auf das
-                Konto mit IBAN <em>CH12 0900 0000 8536 1360 7</em> bei der
-                PostFinance (BIC <em>POFICHBEXXX</em>).<br/>
+                target="_top">Internationale Überweisungen</a> bitte an:
+                IBAN: <em>CH12 0900 0000 8536 1360 7</em></br>
+                BIC: <em>POFICHBEXXX</em><br/>
                 Die Adresse des Kontoinhabers ist die obige Postanschrift.<br/>
                 Die Adresse der Bank ist:<br/><address>Swiss Post – PostFinance<br/>Nordring 8<br/>3030 Bern<br/>Switzerland</address>
             </li>
