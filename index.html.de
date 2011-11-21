@@ -72,6 +72,21 @@
             href="merchandise/">ausgewählte Debian Fan-Artikel</a>. Sämtliche
         Erlöse kommen zu 100% dem Debian Projekt zugute.</p>
 
+       <h2>Sponsoren</h2>
+
+       <h3>InitSeven AG</h3>
+       <!-- 2011.11.21/mfk: InitSeven would like to be named as sponsor since
+            they provide connectivity. I am in discussions with them. Once
+            this comment is removed, the following text should be translated. -->
+
+         <p>Mit Behausung und Anbindung dieses Rechners an das Internet,
+             leistet <a href="http://www.init7.net">Init7</a> einen wichtigen
+             Beitrag zum Debian Projekt in der Schweiz.</p>
+         <p><strong>Wir bedanken uns bei Init7 für diese
+                 Unterstützung.</strong></p>
+         <p>Init7 baut intern selbst auf Debian und wir hoffen, daß wir stets
+             auch in ihrem Sinn das Betriebssystem verbessern werden. </p>
+
         <h2>Gönner</h2>
 
         <p>Gemäss § 4 unserer <a href="statuten.pdf">Statuten</a> werden
