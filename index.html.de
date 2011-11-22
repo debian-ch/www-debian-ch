@@ -74,13 +74,15 @@
 
        <h2>Sponsoren</h2>
 
-       <img class="float-right" src="img/init7.png" width="160" height="40" alt="Init7 Logo" title="Init Seven AG" />
-
        <h3>Init Seven AG</h3>
        <!-- 2011.11.21/mfk: Init Seven would like to be named as sponsor since
             they provide connectivity. I am in discussions with them. Once
             this comment is removed, the following text should be translated.
             -->
+
+       <a href="http://www.init7.net"><img class="float-right"
+               src="img/init7.png" width="160" height="40" alt="Init7 Logo"
+               title="Init Seven AG" /></a>
 
        <p>Mit Behausung und Anbindung dieses Rechners an das Internet, leistet
            <a href="http://www.init7.net">Init Seven AG</a> einen wichtigen
