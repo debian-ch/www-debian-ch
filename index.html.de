@@ -74,18 +74,21 @@
 
        <h2>Sponsoren</h2>
 
-       <h3>InitSeven AG</h3>
-       <!-- 2011.11.21/mfk: InitSeven would like to be named as sponsor since
-            they provide connectivity. I am in discussions with them. Once
-            this comment is removed, the following text should be translated. -->
+       <img class="float-left" src="img/init7.png" width="284" height="71" alt="Init7 Logo" title="Init Seven AG" />
+       <div>
+         <h3>Init Seven AG</h3>
+         <!-- 2011.11.21/mfk: Init Seven would like to be named as sponsor since
+              they provide connectivity. I am in discussions with them. Once
+              this comment is removed, the following text should be translated. -->
 
          <p>Mit Behausung und Anbindung dieses Rechners an das Internet,
-             leistet <a href="http://www.init7.net">Init7</a> einen wichtigen
+             leistet <a href="http://www.init7.net">Init Seven AG</a> einen wichtigen
              Beitrag zum Debian Projekt in der Schweiz.</p>
          <p><strong>Wir bedanken uns bei Init7 für diese
                  Unterstützung.</strong></p>
          <p>Init7 baut intern selbst auf Debian und wir hoffen, daß wir stets
              auch in ihrem Sinn das Betriebssystem verbessern werden. </p>
+        </div>
 
         <h2>Gönner</h2>
 
