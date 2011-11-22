@@ -73,14 +73,9 @@ img {
   border: none;
 }
 
-.float-left {
-  float: left;
-  margin-right: 1em;
-}
-
-.float-right {
+.sponsor-logo {
   float: right;
-  margin-left: 1em;
+  margin: 1em 0 0 1em;
 }
 
 #tshirts {
