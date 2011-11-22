@@ -75,6 +75,22 @@
             href="merchandise/">select Debian merchandise</a>. All profits go
         to the Debian Project without deductions.</p>
 
+        <h2>Sponsors</h2>
+
+        <h3>Init Seven AG</h3>
+
+        <a href="http://www.init7.net"><img class="sponsor-logo"
+                src="img/init7.png" width="160" height="40" alt="Init7 Logo"
+                title="Init Seven AG" /></a>
+
+        <p><a href="http://www.init7.net">Init Seven AG</a> provide hosting and
+            connectivity to the machine serving this web page. This is an
+            important contribution to the Debian Project in Switzerland.</p>
+
+        <p>Init7 themselves use Debian internally, and we hope to keep developing our system in their interest.</p>
+
+        <p>We would like to thank Init7 for their support.</p>
+
         <h2>Patrons</h2>
 
         <p>According to § 4 of our <a href="statuten.pdf">bylaws (in
