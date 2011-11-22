@@ -88,17 +88,12 @@
                 <tr><td>Nome</td><td>Paese</td><td>Link</td></tr>
             </thead>
             <tbody>
-                <tr> <!-- added: 2010.05.30 mfk -->
-                    <td>Rolf Müller</td>
-                    <td>Stettfurt</td>
-                    <td></td>
-                </tr>
                 <tr> <!-- added: 2010.12.29 mfk -->
                     <td>Michael Nydegger</td>
                     <td>Winterthur</td>
                     <td><a href="http://www.michael-nydegger.ch">http://www.michael-nydegger.ch</a></td>
                 </tr>
-                <tr> <!-- added: 2010.11.30 mfr -->
+                <tr> <!-- added: 2010.11.30 mfk -->
                     <td>Camptocamp SA</td>
                     <td>Lausanne</td>
                     <td><a href="http://www.camptocamp.com">http://www.camptocamp.com</a></td>
