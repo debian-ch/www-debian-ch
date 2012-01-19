@@ -103,15 +103,20 @@
                 <tr><td>Name</td><td>Location</td><td>Link</td></tr>
             </thead>
             <tbody>
-                <tr> <!-- added: 2010.12.29 mfk -->
-                    <td>Michael Nydegger</td>
-                    <td>Winterthur</td>
-                    <td><a href="http://www.michael-nydegger.ch">http://www.michael-nydegger.ch</a></td>
+                <tr> <!-- added: 2012.01.19 mfk -->
+                    <td>Martin F. Krafft</td>
+                    <td>München</td>
+                    <td><a href="http://martin-krafft.net">http://martin-krafft.net</a></td>
                 </tr>
-                <tr> <!-- added: 2010.11.30 mfk -->
-                    <td>Camptocamp SA</td>
-                    <td>Lausanne</td>
-                    <td><a href="http://www.camptocamp.com">http://www.camptocamp.com</a></td>
+                <tr> <!-- added: 2012.01.19 mfk -->
+                    <td>Rolf Müller</td>
+                    <td>Stettfurt</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr> <!-- added: 2012.01.19 mfk -->
+                    <td>Buchbinderei Kevin Müller</td>
+                    <td>Bern</td>
+                    <td>&nbsp;</td>
                 </tr>
             </tbody>
         </table>
