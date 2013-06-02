@@ -33,7 +33,7 @@
         transférez la somme exacte (incluant prix des articles, frais d'envois,
         dons éventuels…) sur notre compte (dont les détails sont accessibles
         sur la <a href="../">page d'accueil</a>) et <a
-        href="mailto:info&#37;&#52;&#48;debian&#46;ch">envoyez-nous un
+        href="mailto:sales&#37;&#52;&#48;debian&#46;ch">envoyez-nous un
         courriel</a> quelques jours plus tard</p>
 
         <p>Conformément à nos <a href="../statuten.pdf">statuts (en
@@ -45,7 +45,7 @@
 
 	<p>Si vous avez d'autres photos des articles ci-dessous, envoyez-nous un
 	courriel à <a
-	href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>
+	href="mailto:sales&#37;&#52;&#48;debian&#46;ch">sales<span>&#64;</span>debian<span>&#46;</span>ch</a>
 	et nous les mettrons ici !</p>
         
 	<p>Jetez également un coup d'œil à la <a
@@ -239,7 +239,7 @@ href="img/foilstickers/Volvo-850_horned-swirl.640.jpg">2</a></td>
         href="http://www.post.ch/fr/post-startseite/post-privatkunden/post-versenden/post-pakete-international/post-preise-pk-pakete-international/post-preise-economy-pakete-international.htm">site
         de la Poste Suisse</a>. Merci de confirmer votre choix dans votre
         courriel à <a
-        href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
+        href="mailto:sales&#37;&#52;&#48;debian&#46;ch">sales<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
 
         <table id="umbrellas">
             <thead>
