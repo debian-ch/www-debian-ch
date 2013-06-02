@@ -36,8 +36,8 @@
         href="mailto:sales&#37;&#52;&#48;debian&#46;ch">envoyez-nous un
         courriel</a> quelques jours plus tard</p>
 
-        <p>Conformément à nos <a href="../statuten.pdf">statuts (en
-        allemand)</a>, tout l'argent que possède debian.ch est activement
+        <p>Conformément à nos <a href="../articles_of_association.pdf">statuts (en
+        anglais)</a>, tout l'argent que possède debian.ch est activement
         utilisé pour soutenir le projet Debian sous diverses formes, par
         exemple en participant à des évènements ou en soutenant financièrement
         des <a href="http://wiki.debian.org/BSP">fêtes de chasse aux bugs

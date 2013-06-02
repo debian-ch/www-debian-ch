@@ -27,8 +27,8 @@
         <p>debian.ch est la représentation officielle du <a
           href="http://www.debian.org/">projet Debian</a> en Suisse et en
         principauté de Liechtenstein. C'est une association à but non lucratif
-        selon la législation Suisse (<a href="statuten.pdf">Les statuts, en
-          allemand</a>).</p>
+        selon la législation Suisse (<a href="articles_of_association.pdf">Les statuts, en
+          anglais</a>).</p>
 
         <p>Contactez-nous par :</p>
 
@@ -69,8 +69,8 @@
 
         <h2>Parrains</h2>
 
-        <p>Conformément à l'article 4 de nos <a href="statuten.pdf">statuts
-            (en allemand)</a>, les personnes ou entreprises faisant un don de
+        <p>Conformément à l'article 4 de nos <a href="articles_of_association.pdf">statuts
+            (en anglais)</a>, les personnes ou entreprises faisant un don de
         plus de 100 CHF peuvent être reconnues comme parrains de
         l'association pour une année. Les personnes/entreprises suivantes nous
         ont fait parvenir un don significatif :</p>
