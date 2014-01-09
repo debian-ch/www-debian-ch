@@ -78,25 +78,30 @@ img {
   margin: 1em 0 0 1em;
 }
 
-#tshirts {
+#tshirts,
+#knives {
   margin: 1em 0 0;
 }
 
-#tshirts thead {
+#tshirts thead,
+#knives thead {
   background-color: #366;
   color: #fff;
   font-weight: bolder;
 }
 
-#tshirts tr {
+#tshirts tr,
+#knives tr {
   border-bottom: 1px solid #366;
 }
 
-#tshirts td {
+#tshirts td,
+#knives td {
   padding: 0.25em 0;
 }
 
-#tshirts img {
+#tshirts img,
+#knives img {
   vertical-align: middle;
   border: 0;
   width: 50px;
@@ -148,4 +153,8 @@ img {
   vertical-align: middle;
   border: 0;
   width: 50px;
+}
+
+.stock {
+  text-align: right;
 }

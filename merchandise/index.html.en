@@ -51,6 +51,7 @@
             href="http://wiki.debian.org/Merchandise">general Debian
                 merchandise wiki page</a>.</p>
 
+        <div id="tshirts-whole">
         <h2>T-Shirts</h2>
 
         <p>For each T-Shirt, shipping within Switzerland costs 3 CHF,
@@ -59,7 +60,7 @@
         <table id="tshirts">
             <thead>
                 <tr><td>Design</td><td>Price</td><td>Action
-                    shots</td></tr>
+                    shots</td><td>Stock</td></tr>
             </thead>
             <tbody>
                 <tr> <!-- added: 2009.02.23 gismo -->
@@ -72,6 +73,7 @@
                     <td><a href="img/tshirts/debian.ch_classic_Akira.jpg">1</a>
                         <a href="img/tshirts/debian.ch_classic_OdyX.jpg">2</a>
                         <a href="img/tshirts/debian.ch_back_Lixette-Akira-OdyX.jpg">3</a></td>
+                    <td id="T_classic" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2009.02.23 gismo -->
                     <td><a
@@ -82,6 +84,7 @@
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/debian.ch_fusion_Lixette.jpg">1</a>
                         <a href="img/tshirts/debian.ch_fusion_Gismo.jpg">2</a></td>
+                    <td id="T_fusion" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2009.02.23 gismo -->
                     <td><a
@@ -92,6 +95,7 @@
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/apt-get_install_anarchism_Patrick.jpg">1</a>
                         <a href="img/tshirts/apt-get_install_anarchism_Chen-Da-Patrick.jpg">2</a></td>
+                    <td id="T_anarchism" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2011.02.13 gismo -->
                     <td><a
@@ -104,6 +108,7 @@
                         <a href="img/tshirts/spacefun_squeeze_blue_back_Julien.jpg">2</a>
                         <a href="img/tshirts/spacefun_squeeze_black_front_Benoit.jpg">3</a>
                         <a href="img/tshirts/spacefun_squeeze_black_back_Benoit.jpg">4</a></td>
+                    <td id="T_spacefun" class="stock">!no-js!</td>
                 </tr>
             </tbody>
         </table>
@@ -114,6 +119,33 @@
         install anarchism` ones!  And to Julien and Benoît for the
         Space Fun!</p>
 
+        </div>
+        <div id="knives-whole">
+	<h2>Swiss knives</h2>
+
+        <p>For each knife, shipping within Switzerland costs 3 CHF,
+        while within Europe it costs 8 CHF.</p>
+
+	<table id="knives">
+	    <thead>
+		<tr><td>Design</td><td>Price</td><td>Stock</td></tr>
+	    </thead>
+	    <tbody>
+		<tr> <!-- added: 2013.01.08 OdyX -->
+	            <td><a
+                        href="img/knives/debian_knife_black.jpg"><img
+                        src="img/knives/debian_knife_black.jpg"
+                        alt="Couteau suisse debian noir" /> Victorinox CyberTool 29</a></td>
+		    <td>70 CHF</td>
+                    <td class="stock">
+                        Black: <span id="K_black">!no-js!</span><br />
+                        Blue: <span id="K_blue">!no-js!</span>
+                    </td>
+		</tr>
+	    </tbody>
+	</table>
+
+        </div>
         <h2>Foilstickers</h2>
 
         <p>A foillabel is a glued foil which will be cut into shapes
@@ -241,7 +273,7 @@
         <table id="umbrellas">
             <thead>
                 <tr><td>Design</td><td>Price</td><td>Action
-                    shots</td></tr>
+                    shots</td><td>Stock</td></tr>
             </thead>
             <tbody>
                 <tr> <!-- added: 2010.12.08 gismo -->
@@ -254,9 +286,16 @@
                     <td><a href="img/umbrellas/debianumbrella1.jpg">1</a>
                         <a href="img/umbrellas/debianumbrella2.jpg">2</a>
                         <a href="img/umbrellas/Debian_umbrella-black.640.jpg">3</a></td>
+                    <td class="stock">
+                        Black: <span id="U_black">!no-js!</span><br />
+                        White: <span id="U_white">!no-js!</span>
+                    </td>
                 </tr>
             </tbody>
         </table>
+
+    <!-- Load the javascript at the very end -->
+    <script language="javascript" type="text/javascript" src="stock.js"></script>
 
     </body>
 </html>

@@ -45,11 +45,12 @@
         href="mailto:sales&#37;&#52;&#48;debian&#46;ch">sales<span>&#64;</span>debian<span>&#46;</span>ch</a>
         und wir werden sie verlinken!</p>
 
+        <div id="tshirts-whole">
         <h2>T-Shirts</h2>
 
         <table id="tshirts">
             <thead>
-                <tr><td>Design</td><td>Preis</td><td>Anwendungsbeispiele</td></tr>
+                <tr><td>Design</td><td>Preis</td><td>Anwendungsbeispiele</td><td>Stock</td></tr>
             </thead>
             <tbody>
                 <tr> <!-- added: 2009.02.23 gismo -->
@@ -61,6 +62,7 @@
                     <td><a href="img/tshirts/debian.ch_classic_Akira.jpg">1</a>
                         <a href="img/tshirts/debian.ch_classic_OdyX.jpg">2</a>
                         <a href="img/tshirts/debian.ch_back_Lixette-Akira-OdyX.jpg">3</a></td>
+                    <td id="T_classic" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2009.02.23 gismo -->
                     <td><a href="img/tshirts/debian.ch_fusion.png"><img
@@ -70,6 +72,7 @@
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/debian.ch_fusion_Lixette.jpg">1</a>
                         <a href="img/tshirts/debian.ch_fusion_Gismo.jpg">2</a></td>
+                    <td id="T_fusion" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2009.02.23 gismo -->
                     <td><a
@@ -80,6 +83,7 @@
                     <td>25 CHF</td>
                     <td><a href="img/tshirts/apt-get_install_anarchism_Patrick.jpg">1</a>
                         <a href="img/tshirts/apt-get_install_anarchism_Chen-Da-Patrick.jpg">2</a></td>
+                    <td id="T_anarchism" class="stock">!no-js!</td>
                 </tr>
                 <tr> <!-- added: 2011.02.13 gismo -->
                     <td><a
@@ -92,6 +96,7 @@
                         <a href="img/tshirts/spacefun_squeeze_blue_back_Julien.jpg">2</a>
                         <a href="img/tshirts/spacefun_squeeze_black_front_Benoit.jpg">3</a>
                         <a href="img/tshirts/spacefun_squeeze_black_back_Benoit.jpg">4</a></td>
+                    <td id="T_spacefun" class="stock">!no-js!</td>
                 </tr>
             </tbody>
         </table>
@@ -102,6 +107,33 @@
         f&uuml;r die `apt-get install anarchism` Bilder! Dank an
         Julien und Beno&icirc;t f&uuml;r die Space-Fun-Bilder!</p>
 
+        </div>
+        <div id="knives-whole">
+	<h2>Schweizer Messer</h2>
+
+        <p>Die Versandkosten innerhalb der Schweiz betragen 3 CHF pro
+        Messer. Innerhalb Europas berechnen wir 8 CHF.</p>
+
+	<table id="knives">
+	    <thead>
+		<tr><td>Design</td><td>Preis</td><td>Stock</td></tr>
+	    </thead>
+	    <tbody>
+		<tr> <!-- added: 2013.01.08 OdyX -->
+	            <td><a
+                        href="img/knives/debian_knife_black.jpg"><img
+                        src="img/knives/debian_knife_black.jpg"
+                        alt="Couteau suisse debian noir" /> Victorinox CyberTool 29</a></td>
+		    <td>70 CHF</td>
+                    <td class="stock">
+                        Schwarz: <span id="K_black">!no-js!</span><br />
+                        Blau: <span id="K_blue">!no-js!</span>
+                    </td>
+		</tr>
+	    </tbody>
+	</table>
+
+        </div>
         <h2>Aufkleber</h2>
 
         <p>Die Aufkleber sind mit einem speziellen Plotter aus
@@ -185,8 +217,8 @@
                 <!-- added: 2010.06.17 abe -->
                 <tr>
                     <td rowspan="3"><a
-                        href="img/foilstickers/Horned_Debian_Swirl.jpg"><img
-                        src="img/foilstickers/Horned_Debian_Swirl.small.jpg"
+                        href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
+                        src="img/foilstickers/Debian_kFreeBSD_swirl.png"
                         alt="The Debian Swirl with BSD horns" align="left"
                         /> Geh&ouml;rnter Debian Swirl<br />(Debian GNU/kFreeBSD Logo)</a></td>
 
@@ -206,6 +238,9 @@
                 </tr>
             </tbody>
         </table>
+
+    <!-- Load the javascript at the very end -->
+    <script language="javascript" type="text/javascript" src="stock.js"></script>
     </body>
 </html>
 
