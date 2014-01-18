@@ -270,7 +270,7 @@ href="img/foilstickers/Volvo-850_horned-swirl.640.jpg">2</a></td>
         l'Europe et 18 CHF pour le reste du monde (le prix est doublé pour
         jusqu'à 6 parapluies). Un parapluie pèse environ 220 g, et vous pouvez
         choisir votre mode d'envoi sur le <a
-        href="http://www.post.ch/fr/post-startseite/post-privatkunden/post-versenden/post-pakete-international/post-preise-pk-pakete-international/post-preise-economy-pakete-international.htm">site
+	href="http://www.post.ch/fr/post-startseite/post-privatkunden/post-versenden/post-versenden-ausland-paket.htm">site
         de la Poste Suisse</a>. Merci de confirmer votre choix dans votre
         courriel à <a
         href="mailto:sales&#37;&#52;&#48;debian&#46;ch">sales<span>&#64;</span>debian<span>&#46;</span>ch</a>.</p>
