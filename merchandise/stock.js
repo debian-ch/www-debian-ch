@@ -39,8 +39,8 @@ var U = {
 // K_ for knives
 var K = {
 //  cybertool: {
-    black: 35,
-    blue: 15
+    black: 30,
+    blue: 5
 //  },
 // We don't have Nomad's anymore
 }
