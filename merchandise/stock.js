@@ -32,7 +32,7 @@ var T = {
 
 // U for umbrellas
 var U = {
-  black: 81,
+  black: 80,
   white: 0
 }
 
