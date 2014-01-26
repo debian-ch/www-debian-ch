@@ -40,7 +40,7 @@ var U = {
 var K = {
 //  cybertool: {
     black: 30,
-    blue: 5
+    blue: 4
 //  },
 // We don't have Nomad's anymore
 }
