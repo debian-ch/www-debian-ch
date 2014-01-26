@@ -145,7 +145,7 @@
 
         <table id="foilstickers">
             <thead>
-                <tr><td>Design</td><td>Gr&ouml;sse</td><td>Preis</td><td>Bilder</td></tr>
+                <tr><td>Design</td><td>Gr&ouml;sse</td><td>Preis</td><td>Bilder</td><td>Stock</td></tr>
             </thead>
             <tbody>
                 <!-- added: 2009.02.23 gismo -->
@@ -159,16 +159,19 @@
                     <td>2 CHF</td>
                     <td><a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a>
                         <a href="img/foilstickers/bike_swirl.640.jpg">2</a></td>
+                    <td id="S_swirl_S" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>47.0 x 60.0 mm</td>
                     <td>5 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_swirl_M" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>94.0 x 120.0 mm</td>
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_swirl_L" class="stock">!no-js!</td>
                 </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
@@ -180,16 +183,19 @@
                     <td>30.0 x 42.5 mm</td>
                     <td>2 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_women_S" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>60 x 85.0 mm</td>
                     <td>5 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_women_M" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>120.0 x 170.0 mm</td>
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_women_L" class="stock">!no-js!</td>
                 </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
@@ -203,16 +209,22 @@
                     <td>36.3 x 11.8 mm</td>
                     <td>2 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td class="stock">Schwarz: <span id="S_word_black_S">!no-js!</span><br/>
+                                      Weiss: <span id="S_word_white_S">!no-js!</span></td>
                 </tr>
                 <tr>
                     <td>72.5 x 23.5 mm</td>
                     <td>5 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td class="stock">Schwarz: <span id="S_word_black_M">!no-js!</span><br/>
+                                      Weiss: <span id="S_word_white_M">!no-js!</span></td>
                 </tr>
                 <tr>
                     <td>145.0 x 47.0 mm</td>
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td class="stock">Schwarz: <span id="S_word_black_L">!no-js!</span><br/>
+                                      Weiss: <span id="S_word_white_L">!no-js!</span></td>
                 </tr>
                 <!-- added: 2010.06.17 abe -->
                 <tr>
@@ -225,16 +237,19 @@
                     <td>ca. 23.5 x 30.0 mm</td>
                     <td>2 CHF</td>
                     <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
+                    <td id="S_horned_S" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>ca. 47.0 x 60.0 mm</td>
                     <td>5 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_horned_M" class="stock">!no-js!</td>
                 </tr>
                 <tr>
                     <td>ca. 94.0 x 120.0 mm</td>
                     <td>10 CHF</td>
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
+                    <td id="S_horned_L" class="stock">!no-js!</td>
                 </tr>
             </tbody>
         </table>

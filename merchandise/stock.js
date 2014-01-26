@@ -46,7 +46,38 @@ var K = {
 }
 
 // S_ for stickers
-// NO HANDLING FOR NOW
+var S = {
+  swirl: {
+	L: 61,
+	M: 1,
+	S: 179,
+	XS: 0,
+  },
+  women: {
+	L: 3,
+	M: 0,
+	S: 78,
+	XS: 31,
+  },
+  horned: {
+	L: 0,
+	M: 0,
+	S: 27,
+	XS: 29,
+  },
+  word_white: {
+	L: 2,
+	M: 0,
+	S: 0,
+	XS: 62,
+  },
+  word_black: {
+	L: 4,
+	M: 0,
+	S: 0,
+	XS: 58,
+  }
+}
 
 // Now display all of these numbers smartly
 var T_full_stock_str = "";
@@ -59,16 +90,30 @@ for(var T_design in T) {
     }
   }
   field = document.getElementById("T_" + T_design);
-  field.innerHTML = T_stock_str;
-  // If the stock is empty for the category, empty the full line
-  if ( T_stock_str.length == 0 ) {
-    field.parentNode.innerHTML = "";
+  if ( field != null ) {
+    field.innerHTML = T_stock_str;
+    // If the stock is empty for the category, empty the full line
+    if ( T_stock_str.length == 0 ) {
+      field.parentNode.innerHTML = "";
+    }
   }
   T_full_stock_str += T_stock_str;
 }
 if ( T_full_stock_str.length == 0 ) {
   field = document.getElementById("tshirts-whole");
-  field.innerHTML = "";
+  if ( field != null ) { field.innerHTML = ""; }
+}
+
+// Stickers
+for(var S_design in S) {
+  var S_stock_str = "";
+  for (var size in S[S_design]) {
+    var stock = S[S_design][size];
+    field = document.getElementById("S_" + S_design + "_" + size);
+    if ( field != null ) {
+      field.innerHTML = stock;
+    }
+  }
 }
 
 // Umbrellas
@@ -78,7 +123,7 @@ for(var U_color in U) {
   var stock = U[U_color];
   // Display it nevertheless
   field = document.getElementById("U_" + U_color);
-  if(field) { field.innerHTML = stock; }
+  if ( field != null ) { field.innerHTML = stock; }
   if ( stock != 0 ) {
     U_stock_str += U_color + ": " + stock + "<br />";
   }
@@ -86,7 +131,7 @@ for(var U_color in U) {
 // If the stock is empty for the category, remove the full block
 if ( U_stock_str.length == 0 ) {
   field = document.getElementById("umbrellas-whole");
-  field.innerHTML = "";
+  if ( field != null ) { field.innerHTML = ""; }
 }
 
 // Knives
