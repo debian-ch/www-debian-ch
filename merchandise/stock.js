@@ -62,8 +62,8 @@ var S = {
   horned: {
 	L: 0,
 	M: 0,
-	S: 27,
-	XS: 29,
+	S: 23,
+	XS: 30,
   },
   word_white: {
 	L: 2,
