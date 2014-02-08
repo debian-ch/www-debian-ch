@@ -48,9 +48,9 @@ var K = {
 // S_ for stickers
 var S = {
   swirl: {
-	L: 61,
-	M: 1,
-	S: 179,
+	L: 59,
+	M: 5,
+	S: 177,
 	XS: 0,
   },
   women: {
@@ -62,7 +62,7 @@ var S = {
   horned: {
 	L: 0,
 	M: 0,
-	S: 23,
+	S: 21,
 	XS: 30,
   },
   word_white: {
