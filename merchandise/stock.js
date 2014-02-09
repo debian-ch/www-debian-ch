@@ -72,7 +72,7 @@ var S = {
 	XS: 62,
   },
   word_black: {
-	L: 4,
+	L: 2,
 	M: 0,
 	S: 0,
 	XS: 58,
