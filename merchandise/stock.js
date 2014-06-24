@@ -55,7 +55,7 @@ var S = {
   },
   women: {
 	L: 3,
-	M: 0,
+	M: 0, // Message-Id: <42AE6527-DC3A-4E26-8287-C9193D97541D@gmail.com> was interested in getting some of these.
 	S: 78,
 	XS: 30,
   },
