@@ -49,8 +49,8 @@ var K = {
 var S = {
   swirl: {
 	L: 14,
-	M: 1,
-	S: 134,
+	M: 0,
+	S: 132,
 	XS: 0,
   },
   women: {
