@@ -48,34 +48,34 @@ var K = {
 // S_ for stickers
 var S = {
   swirl: {
-	L: 59,
-	M: 5,
-	S: 177,
+	L: 14,
+	M: 1,
+	S: 134,
 	XS: 0,
   },
   women: {
-	L: 3,
+	L: 1,
 	M: 0, // Message-Id: <42AE6527-DC3A-4E26-8287-C9193D97541D@gmail.com> was interested in getting some of these.
-	S: 75,
-	XS: 30,
+	S: 69,
+	XS: 25,
   },
   horned: {
 	L: 0,
 	M: 0,
-	S: 21,
-	XS: 30,
+	S: 11,
+	XS: 28,
   },
   word_white: {
 	L: 2,
 	M: 0,
 	S: 0,
-	XS: 62,
+	XS: 59,
   },
   word_black: {
 	L: 2,
 	M: 0,
 	S: 0,
-	XS: 58,
+	XS: 54,
   }
 }
 
