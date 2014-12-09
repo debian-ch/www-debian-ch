@@ -66,10 +66,10 @@ var S = {
 	XS: 28,
   },
   word_white: {
-	L: 2,
+	L: 0,
 	M: 0,
 	S: 0,
-	XS: 59,
+	XS: 58,
   },
   word_black: {
 	L: 2,
