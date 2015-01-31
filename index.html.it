@@ -58,14 +58,11 @@
               href="mailto:donate&#37;&#52;&#48;debian&#46;ch">donate<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
         </ul>
 
+        <h2>Comunità / Meetings</h2>
+
         <p>Le persone interessate alle attività riguardanti Debian in
         Svizzera si ritrovano sulla mailing list <a
          href="http://lists.debian.ch/">community<span>&#64;</span>lists<span>&#46;</span>debian<span>&#46;</span>ch</a>.</p>
-
-        <p>A causa delle risorse limitate, <b>debian.ch non fornisce supporto per
-          Debian GNU/Linux</b>. <a href="http://www.debian.org/support">Il
-          sito web di Debian</a> ha una pagina che elenca vari modi per ottenere
-        supporto (sia commerciale che gratuito).</p>
 
         <h2>Materiale Promozionale</h2>
 
@@ -108,14 +105,19 @@
 
         <p>Grazie a tutti i nostri sostenitori!</p>
 
-        <h2>Sorpreso?</h2>
+        <h2>Supporto</h2>
 
-        <p>L'associazione debian.ch è stata fondata nel novembre 2006 e dal 15
-        dicembre 2006 ha ottenuto il dominio debian.ch da <a
-        href="http://www.cril.ch/">CRIL / Marc Schaefer</a>.  debian.ch non
-        vende CD, contrariamente ai proprietari precedenti, quindi per
-        richiedere i CD di Debian vi preghiamo di rivolgervi a <a
-        href="mailto:debian-cd-sales&#37;&#52;&#48;cril&#46;ch">debian-cd-sales<span>&#64;</span>cril<span>&#46;</span>ch</a>.</p>
+        <p>A causa delle risorse limitate, <b>debian.ch non fornisce supporto per
+          Debian GNU/Linux</b>. <a href="http://www.debian.org/support">Il
+          sito web di Debian</a> ha una pagina che elenca vari modi per ottenere
+        supporto (sia commerciale che gratuito).</p>
+
+        <p>L'associazione debian.ch non vende CD, contrariamente ai
+        proprietari precedenti, quindi per richiedere i CD di Debian
+        vi preghiamo di rivolgervi a <a href="http://www.cril.ch/">CRIL / Marc
+        Schaefer</a>, <a
+        href="mailto:debian-cd-sales&#37;&#52;&#48;cril&#46;ch"
+        >debian-cd-sales<span>&#64;</span>cril<span>&#46;</span>ch</a>.</p>
     </body>
 </html>
 

@@ -57,14 +57,11 @@
               href="mailto:donate&#37;&#52;&#48;debian&#46;ch">donate<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
         </ul>
 
+        <h2>Gemeinschaft / Veranstaltungen</h2>
+
         <p>Die <a href="http://lists.debian.ch/">community<span>&#64;</span>lists<span>&#46;</span>debian<span>&#46;</span>ch</a>
         Mailingliste steht allen an Debian Interessierten zur Verfügung, die
         Gleichgesinnte in der Schweiz suchen.</p>
-
-        <p>Leider können wir <b>keinen Support für Debian GNU/Linux</b>
-        anbieten.  Die <a href="http://www.debian.org/support">Debian
-        Webseite</a> zeigt jedoch verschiedene Möglichkeiten auf, Support
-        (gratis und kommerziell) zu bekommen.</p>
 
         <h2>Fan-Artikel</h2>
 
@@ -122,13 +119,18 @@
 
         <p>Vielen Dank an alle Gönner für Ihre Unterstützung!</p>
 
-        <h2>Überrascht?</h2>
+        <h2>Support</h2>
 
-        <p>Der Verein debian.ch wurde im November 2006 gegründet und konnte die
-        debian.ch Domain am 15.12.2006 von <a href="http://www.cril.ch/">CRIL /
-        Marc Schaefer</a> übernehmen. debian.ch verkauft keine CDs; um
-        Debian CDs zu erwerben, wenden Sie sich bitte an <a
-        href="mailto:debian-cd-sales&#37;&#52;&#48;cril&#46;ch">debian-cd-sales<span>&#64;</span>cril<span>&#46;</span>ch</a>.</p>
+        <p>Leider können wir <b>keinen Support für Debian GNU/Linux</b>
+        anbieten.  Die <a href="http://www.debian.org/support">Debian
+        Webseite</a> zeigt jedoch verschiedene Möglichkeiten auf, Support
+        (gratis und kommerziell) zu bekommen.</p>
+
+        <p>Debian.ch verkauft keine CDs; um
+        Debian CDs zu erwerben, wenden Sie sich bitte
+        an <a href="http://www.cril.ch/">CRIL / Marc Schaefer</a>, <a
+        href="mailto:debian-cd-sales&#37;&#52;&#48;cril&#46;ch"
+        >debian-cd-sales<span>&#64;</span>cril<span>&#46;</span>ch</a>.</p>
 
     </body>
 </html>
