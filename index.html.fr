@@ -56,6 +56,11 @@
         Suisse se retrouvent sur la liste de diffusion <a
         href="http://lists.debian.ch/">community<span>&#64;</span>lists<span>&#46;</span>debian<span>&#46;</span>ch</a>.</p>
 
+        <p>Un Debian meetup est actuellement organisé chaque premier mardi du mois à Zürich.
+        Voir <a href="https://wiki.debian.org/LocalGroups#Switzerland">Local Groups: Switzerland</a> sur le wiki Debian pour les derniers détails.
+        Le LUGS maintient un <a href="http://www.lugs.ch/lugs/termine/">calendrier</a> comprenant <a href="http://www.lugs.ch/lugs/termine/ical/debian.ics">un flux iCal</a> et un
+        <a href="http://lists.lugs.ch/reminder.cgi">rappel par e-mail</a>.</p>
+
         <h2>Matériel promotionnel</h2>
 
         <p>Au nom du projet Debian, debian.ch produit et vend du <a
