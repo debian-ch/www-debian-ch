@@ -188,7 +188,7 @@
                 </tr>
 		<!-- added: 2009.02.23 gismo -->
 		<tr>
-		    <td rowspan="3"><a
+		    <td rowspan="4"><a
 		        href="img/foilstickers/Debian_Women_swirl.png"><img
 		        src="img/foilstickers/Debian_Women_swirl.png"
 		        alt="Dessin swirl Debian Women" /> Swirl
@@ -248,7 +248,7 @@
 		</tr>
                 <!-- added: 2011.01.02 gismo -->
                 <tr>
-                    <td rowspan="3"><a href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
+                    <td rowspan="4"><a href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
                         src="img/foilstickers/Debian_kFreeBSD_swirl.png"
                         alt="Logo Debian avec les cornes BSD" align="left"
                         /> Logo Debian avec les cornes BSD<br />(logo Debian GNU/kFreeBSD)</a></td>
