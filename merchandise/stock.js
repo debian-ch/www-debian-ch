@@ -68,14 +68,12 @@ var S = {
   word_white: {
 	L: 0,
 	M: 0,
-	S: 0,
-	XS: 58,
+	S: 58,
   },
   word_black: {
 	L: 2,
 	M: 0,
-	S: 0,
-	XS: 54,
+	S: 54,
   }
 }
 
