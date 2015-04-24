@@ -253,7 +253,13 @@
                         alt="The Debian Swirl with BSD horns" align="left"
                         /> Horned Debian Swirl<br />(Debian GNU/kFreeBSD logo)</a></td>
 
-                    <td>ca. 23.5 x 30.0 mm</td>
+                    <td>30 x 32 mm</td>
+                    <td>2 CHF</td>
+                    <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
+                    <td id="S_horned_XS" class="stock">!no-js!</td>
+                </tr>
+                <tr>
+                    <td>38 x 40 mm</td>
                     <td>2 CHF</td>
                     <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
                     <td id="S_horned_S" class="stock">!no-js!</td>
