@@ -50,7 +50,7 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 98,	// 31x40
+	S: 95,	// 31x40
 	XS: 0,
   },
   women: {
@@ -62,7 +62,7 @@ var S = {
   horned: {
 	L: 0,
 	M: 0,
-	S: 11,	// 38x40
+	S: 8,	// 38x40
 	XS: 27, // 30x32
   },
   word_white: {
@@ -73,7 +73,7 @@ var S = {
   word_black: {
 	L: 0,
 	M: 0,
-	S: 54,
+	S: 51,
   }
 }
 
