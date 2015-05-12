@@ -32,7 +32,7 @@ var T = {
 
 // U for umbrellas
 var U = {
-  black: 79,
+  black: 78,
   white: 0
 }
 
@@ -50,7 +50,7 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 102,	// 31x40
+	S: 98,	// 31x40
 	XS: 0,
   },
   women: {
