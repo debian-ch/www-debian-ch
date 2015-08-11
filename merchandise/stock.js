@@ -32,14 +32,14 @@ var T = {
 
 // U for umbrellas
 var U = {
-  black: 78,
+  black: 77,
   white: 0
 }
 
 // K_ for knives
 var K = {
 //  cybertool: {
-    black: 30,
+    black: 27,
     blue: 4
 //  },
 // We don't have Nomad's anymore
@@ -50,7 +50,7 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 95,	// 31x40
+	S: 89,	// 31x40
 	XS: 0,
   },
   women: {
@@ -73,7 +73,7 @@ var S = {
   word_black: {
 	L: 0,
 	M: 0,
-	S: 51,
+	S: 47,
   }
 }
 
