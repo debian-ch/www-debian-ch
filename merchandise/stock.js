@@ -39,7 +39,7 @@ var U = {
 // K_ for knives
 var K = {
 //  cybertool: {
-    black: 1, // 26 is the supposed stock, minus DebConf15 sales
+    black: 1, // 14 is the supposed stock, minus DebConf15 sales
     blue: 0 // 4 is the supposed stock, minus DebConf15 sales
 //  },
 // We don't have Nomad's anymore
