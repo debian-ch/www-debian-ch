@@ -82,6 +82,11 @@
                 <tr><td>Nom</td><td>Lieu</td><td>Lien</td></tr>
             </thead>
             <tbody>
+                <tr> <!-- added: 2013.12.09 odyx -->
+                    <td>Michael Nydegger</td>
+                    <td>Winterthur</td>
+                    <td><a href="http://www.michael-nydegger.ch/">http://www.michael-nydegger.ch/</a></td>
+                </tr>
                 <tr> <!-- added: 2012.01.19 mfk -->
                     <td>Martin F. Krafft</td>
                     <td>München</td>
