@@ -32,14 +32,14 @@ var T = {
 
 // U for umbrellas
 var U = {
-  black: 76,
+  black: 74,
   white: 0
 }
 
 // K_ for knives
 var K = {
 //  cybertool: {
-    black: 1, // 14 is the supposed stock, minus DebConf15 sales
+    black: 0, // 14 is the supposed stock, minus DebConf15 sales
     blue: 0 // 4 is the supposed stock, minus DebConf15 sales
 //  },
 // We don't have Nomad's anymore
