@@ -50,7 +50,7 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 89,	// 31x40
+	S: 76,	// 31x40
 	XS: 0,
   },
   women: {
