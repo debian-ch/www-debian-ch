@@ -71,45 +71,6 @@
         ricavato, senza alcuna deduzione, viene trasferito al progetto
         Debian.</p>
 
-        <h2>Sostenitori</h2>
-
-        <p>In accordo col punto § 4 del nostro <a
-	  href="articles_of_association.pdf">statuto (in inglese)</a>, qualsiasi
-	  persona o ditta che doni almeno 100 CHF può decidere di
-	  essere elencato come sostenitore della nostra assocazione.
-          Le sottoelencate persone/ditte hanno contribuito alla nostra
-	  associazione:</p>
-
-        <table id="patrons">
-            <thead>
-                <tr><td>Nome</td><td>Paese</td><td>Link</td></tr>
-            </thead>
-            <tbody>
-                <tr> <!-- added: 2013.12.09 odyx -->
-                    <td>Michael Nydegger</td>
-                    <td>Winterthur</td>
-                    <td><a href="http://www.michael-nydegger.ch/">http://www.michael-nydegger.ch/</a></td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Martin F. Krafft</td>
-                    <td>München</td>
-                    <td><a href="http://martin-krafft.net">http://martin-krafft.net</a></td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Rolf Müller</td>
-                    <td>Stettfurt</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Buchbinderei Kevin Müller</td>
-                    <td>Bern</td>
-                    <td>&nbsp;</td>
-                </tr>
-            </tbody>
-        </table>
-
-        <p>Grazie a tutti i nostri sostenitori!</p>
-
         <h2>Supporto</h2>
 
         <p>A causa delle risorse limitate, <b>debian.ch non fornisce supporto per

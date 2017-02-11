@@ -68,45 +68,6 @@
         bénéfices ainsi récoltés sont intégralement reversés au projet
         Debian.</p>
 
-
-        <h2>Parrains</h2>
-
-        <p>Conformément à l'article 4 de nos <a href="articles_of_association.pdf">statuts
-            (en anglais)</a>, les personnes ou entreprises faisant un don de
-        plus de 100 CHF peuvent être reconnues comme parrains de
-        l'association pour une année. Les personnes/entreprises suivantes nous
-        ont fait parvenir un don significatif :</p>
-
-        <table id="patrons">
-            <thead>
-                <tr><td>Nom</td><td>Lieu</td><td>Lien</td></tr>
-            </thead>
-            <tbody>
-                <tr> <!-- added: 2013.12.09 odyx -->
-                    <td>Michael Nydegger</td>
-                    <td>Winterthur</td>
-                    <td><a href="http://www.michael-nydegger.ch/">http://www.michael-nydegger.ch/</a></td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Martin F. Krafft</td>
-                    <td>München</td>
-                    <td><a href="http://martin-krafft.net">http://martin-krafft.net</a></td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Rolf Müller</td>
-                    <td>Stettfurt</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr> <!-- added: 2012.01.19 mfk -->
-                    <td>Buchbinderei Kevin Müller</td>
-                    <td>Bern</td>
-                    <td>&nbsp;</td>
-                </tr>
-            </tbody>
-        </table>
-
-        <p>Un grand merci à nos donateurs pour leur soutien !</p>
-
         <h2>Support</h2>
 
         <p>Veuillez noter que par manque de ressources, <b>debian.ch ne fournit
