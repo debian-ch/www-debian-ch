@@ -34,7 +34,7 @@
 
         <ul>
             <li>Courriel : <a href="mailto:info&#37;&#52;&#48;debian&#46;ch">info<span>&#64;</span>debian<span>&#46;</span>ch</a></li>
-            <li>Poste : <address><br/>Verein debian.ch<br/>3000 Berne</address></li>
+            <li>Poste : <address><br/>debian.ch<br/>3000 Berne</address></li>
             <li>Numéro de compte pour les dons depuis la Suisse :
                 Compte PostFinance <em>85-361360-7</em>, nom <em>debian.ch</em>.<br/>
                 Merci de garder à l'esprit que la Poste nous facture
