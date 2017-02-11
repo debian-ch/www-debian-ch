@@ -114,11 +114,6 @@
         href="http://www.debian.org/support">le site web de Debian</a> pour
         connaître les moyens d'obtenir du support (commercial ou gratuit).</p>
 
-        <p>L'association debian.ch ne vend pas de CD-ROM de Debian. Si
-        vous souhaitez acheter des CD-ROM, envoyez un courriel à <a
-        href="http://www.cril.ch/">CRIL / Marc Schaefer</a>, <a
-        href="mailto:debian-cd-sales&#37;&#52;&#48;cril&#46;ch"
-        >debian-cd-sales<span>&#64;</span>cril<span>&#46;</span>ch</a>.</p>
     </body>
 </html>
 
