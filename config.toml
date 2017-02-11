@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "debian.ch"
+baseurl = "https://debian.ch/"
+
+[Languages]
+[Languages.en]
+[Languages.de]
+[Languages.fr]
+[Languages.it]
+
