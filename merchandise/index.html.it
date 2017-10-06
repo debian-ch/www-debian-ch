@@ -162,7 +162,7 @@
             <tbody>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
-                    <td rowspan="3"><a
+                    <td rowspan="1"><a
                         href="img/foilstickers/Debian_swirl.png"><img
                         src="img/foilstickers/Debian_swirl.png"
                         alt="Motivo Debian swirl" /> Debian plain
@@ -173,21 +173,9 @@
                         <a href="img/foilstickers/bike_swirl.640.jpg">2</a></td>
                     <td id="S_swirl_S" class="stock">!no-js!</td>
                 </tr>
-                <tr>
-                    <td>47.0 x 60.0 mm</td>
-                    <td>5 CHF</td>
-                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a></td>
-                    <td id="S_swirl_M" class="stock">!no-js!</td>
-                </tr>
-                <tr>
-                    <td>94.0 x 120.0 mm</td>
-                    <td>10 CHF</td>
-                    <td><a href="img/foilstickers/HD-883_swirl.640.jpg">1</a></td>
-                    <td id="S_swirl_L" class="stock">!no-js!</td>
-                </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
-                    <td rowspan="4"><a
+                    <td rowspan="2"><a
                         href="img/foilstickers/Debian_Women_swirl.png"><img
                         src="img/foilstickers/Debian_Women_swirl.png"
                         alt="Motivo Debian Women swirl" /> Debian
@@ -203,21 +191,9 @@
                     <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
                     <td id="S_women_S" class="stock">!no-js!</td>
                 </tr>
-                <tr>
-                    <td>60 x 85.0 mm</td>
-                    <td>5 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
-                    <td id="S_women_M" class="stock">!no-js!</td>
-                </tr>
-                <tr>
-                    <td>120.0 x 170.0 mm</td>
-                    <td>10 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
-                    <td id="S_women_L" class="stock">!no-js!</td>
-                </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
-                    <td rowspan="3"><a
+                    <td rowspan="1"><a
                         href="img/foilstickers/Debian_word.png"><img
                         src="img/foilstickers/Debian_word.png"
                         alt="Motivo parola debian, nero con puntino
@@ -230,24 +206,9 @@
                     <td class="stock">Nero: <span id="S_word_black_S">!no-js!</span><br/>
                                       Bianco: <span id="S_word_white_S">!no-js!</span></td>
                 </tr>
-                <tr>
-                    <td>72.5 x 23.5 mm</td>
-                    <td>5 CHF</td>
-                    <td><a href="img/foilstickers/Acer_swirl_word-white.640.jpg">1</a>
-                        <a href="img/foilstickers/Apple_MacBook_word-black.640.jpg">2</a></td>
-                    <td class="stock">Nero: <span id="S_word_black_M">!no-js!</span><br/>
-                                      Bianco: <span id="S_word_white_M">!no-js!</span></td>
-                </tr>
-                <tr>
-                    <td>145.0 x 47.0 mm</td>
-                    <td>10 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
-                    <td class="stock">Nero: <span id="S_word_black_L">!no-js!</span><br/>
-                                      Bianco: <span id="S_word_white_L">!no-js!</span></td>
-                </tr>
                 <!-- added: 2011.01.02 gismo -->
                 <tr>
-                    <td rowspan="4"><a
+                    <td rowspan="2"><a
                         href="img/foilstickers/Debian_kFreeBSD_swirl.png"><img
                         src="img/foilstickers/Debian_kFreeBSD_swirl.png"
                         alt="Motivo Debian swirl con le corna BSD" align="left"
@@ -262,19 +223,6 @@
                     <td>2 CHF</td>
                     <td><!-- <a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a> --></td>
                     <td id="S_horned_S" class="stock">!no-js!</td>
-                </tr>
-                <tr>
-                    <td>ca. 47.0 x 60.0 mm</td>
-                    <td>5 CHF</td>
-                    <td><!-- <a href="img/foilstickers/MISSING.jpg">1</a> --></td>
-                    <td id="S_horned_M" class="stock">!no-js!</td>
-                </tr>
-                <tr>
-                    <td>ca. 94.0 x 120.0 mm</td>
-                    <td>10 CHF</td>
-                    <td><a href="img/foilstickers/ASUS-EeePC_horned-swirl.640.jpg">1</a>
-                        <a href="img/foilstickers/Volvo-850_horned-swirl.640.jpg">2</a></td>
-                    <td id="S_horned_L" class="stock">!no-js!</td>
                 </tr>
             </tbody>
         </table>
