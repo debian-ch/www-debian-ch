@@ -2,7 +2,7 @@
 var T = {
   classic: {
 	XL: 2,
-	L: 5,
+	L: 4,
 	M: 4,
 	S: 4,
 	XS: 0
@@ -50,7 +50,7 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 5,	// 31x40
+	S: 4,	// 31x40
 	XS: 0,
   },
   women: {
