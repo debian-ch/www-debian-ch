@@ -1,4 +1,6 @@
-deploy:
+production:
+  tags:
+  - debian-ch
   stage: deploy
   script:
   - mkdir -p ~/.ssh
