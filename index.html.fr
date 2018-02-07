@@ -54,7 +54,7 @@
 
         <p>Les personnes intéressées par les activités et les nouvelles concernant Debian en
         Suisse se retrouvent sur la liste de diffusion <a
-        href="http://lists.debian.ch/">community<span>&#64;</span>lists<span>&#46;</span>debian<span>&#46;</span>ch</a>.</p>
+        href="https://lists.debian.ch/">community<span>&#64;</span>lists<span>&#46;</span>debian<span>&#46;</span>ch</a>.</p>
 
         <p>Un Debian meetup est actuellement organisé chaque premier mardi du mois à Zürich.
         Voir <a href="https://wiki.debian.org/LocalGroups#Switzerland">Local Groups: Switzerland</a> sur le wiki Debian pour les derniers détails.
