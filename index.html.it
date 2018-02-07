@@ -25,7 +25,7 @@
                 alt="debian.ch" /></h1>
 
         <p>L'associazione debian.ch rappresenta il progetto <a
-          href="http://www.debian.org/">Debian</a> per la confederazione
+          href="https://www.debian.org/">Debian</a> per la confederazione
         Svizzera e il principato del Liechtenstein.  È un'organizzazione
         non-profit secondo la legge svizzera (<a
           href="articles_of_association.pdf">statuto, in inglese</a>).</p>
@@ -41,7 +41,7 @@
               Vi preghiamo di tener presente che ogni deposito di
               denaro liquido ha un prezzo fisso di 1.80 CHF.</li>
             <li><a
-              href="http://www.postfinance.ch/pf/content/it/seg/biz/product/pay/internat/inbound.html"
+              href="https://www.postfinance.ch/pf/content/it/seg/biz/product/pay/internat/inbound.html"
               target="_blank">Bonifici dall'estero</a> devono essere
               intestati al conto <em>debian.ch</em> (IBAN <em>CH12
               0900 0000 8536 1360 7</em>) presso la banca PostFinance
@@ -74,7 +74,7 @@
         <h2>Supporto</h2>
 
         <p>A causa delle risorse limitate, <b>debian.ch non fornisce supporto per
-          Debian GNU/Linux</b>. <a href="http://www.debian.org/support">Il
+          Debian GNU/Linux</b>. <a href="https://www.debian.org/support">Il
           sito web di Debian</a> ha una pagina che elenca vari modi per ottenere
         supporto (sia commerciale che gratuito).</p>
     </body>

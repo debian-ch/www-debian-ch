@@ -25,7 +25,7 @@
                 alt="debian.ch" /></h1>
 
         <p>Der Verein debian.ch (<a href="articles_of_association.pdf">Statuten</a>) ist die
-        offizielle Repräsentation des <a href="http://www.debian.org/">Debian
+        offizielle Repräsentation des <a href="https://www.debian.org/">Debian
         Projekts</a> in der Schweiz und im Fürstentum Liechtenstein.</p>
 
         <p>debian.ch kann erreicht werden via:</p>
@@ -42,7 +42,7 @@
                 <strong>Bitte nicht vergessen, dass die Post uns pro Bareinzahlung 1,80 CHF berechnet.</strong>
             </li>
             <li><a
-                href="http://www.postfinance.ch/pf/content/de/seg/biz/product/pay/internat/inbound.html"
+                href="https://www.postfinance.ch/pf/content/de/seg/biz/product/pay/internat/inbound.html"
                 target="_top">Internationale Überweisungen</a> bitte an:
                 IBAN: <em>CH12 0900 0000 8536 1360 7</em><br/>
                 BIC/SWIFT: <em>POFICHBEXXX</em><br/>
@@ -67,10 +67,10 @@
         z.Zt. jeden ersten Dienstag im Monat. Aktuelle Details stehen unter
         <a href="https://wiki.debian.org/LocalGroups#Switzerland">Local Groups:
         Switzerland</a> im Debian Wiki. Die
-        LUGS pflegt außerdem einen <a href="http://www.lugs.ch/lugs/termine/"
+        LUGS pflegt außerdem einen <a href="https://www.lugs.ch/lugs/termine/"
         >Terminkalender</a> mitsamt <a
-        href="http://www.lugs.ch/lugs/termine/ical/debian.ics">iCal-Feed</a>
-        und <a href="http://lists.lugs.ch/reminder.cgi">E-Mail-Erinnerung</a>.</p>
+        href="https://www.lugs.ch/lugs/termine/ical/debian.ics">iCal-Feed</a>
+        und <a href="https//lists.lugs.ch/reminder.cgi">E-Mail-Erinnerung</a>.</p>
 
         <h2>Fan-Artikel</h2>
 
@@ -81,7 +81,7 @@
         <h2>Support</h2>
 
         <p>Leider können wir <b>keinen Support für Debian GNU/Linux</b>
-        anbieten.  Die <a href="http://www.debian.org/support">Debian
+        anbieten.  Die <a href="https://www.debian.org/support">Debian
         Webseite</a> zeigt jedoch verschiedene Möglichkeiten auf, Support
         (gratis und kommerziell) zu bekommen.</p>
 

@@ -25,7 +25,7 @@
                 alt="debian.ch" /></h1>
 
         <p>debian.ch est la représentation officielle du <a
-          href="http://www.debian.org/">projet Debian</a> en Suisse et en
+          href="https://www.debian.org/">projet Debian</a> en Suisse et en
         principauté de Liechtenstein. C'est une association à but non lucratif
         selon la législation Suisse (<a href="articles_of_association.pdf">Les statuts, en
           anglais</a>).</p>
@@ -40,7 +40,7 @@
                 Merci de garder à l'esprit que la Poste nous facture
                 1.80 CHF par versement en liquide au guichet postal.
             </li>
-            <li>Les <a href="http://www.postfinance.ch/pf/content/fr/seg/biz/product/pay/internat/inbound.html" target="_blank">virements internationaux</a>
+            <li>Les <a href="https://www.postfinance.ch/pf/content/fr/seg/biz/product/pay/internat/inbound.html" target="_blank">virements internationaux</a>
                 sont à effectuer sur sur le compte <em>debian.ch</em> (IBAN <em>CH12 0900 0000 8536 1360 7</em>)
                 de la banque PostFinance (BIC/SWIFT <em>POFICHBEXXX</em>).<br/>
                 L'adresse du bénéficiaire est la même que l'adresse postale ci-dessus.<br/>
@@ -58,8 +58,8 @@
 
         <p>Un Debian meetup est actuellement organisé chaque premier mardi du mois à Zürich.
         Voir <a href="https://wiki.debian.org/LocalGroups#Switzerland">Local Groups: Switzerland</a> sur le wiki Debian pour les derniers détails.
-        Le LUGS maintient un <a href="http://www.lugs.ch/lugs/termine/">calendrier</a> comprenant <a href="http://www.lugs.ch/lugs/termine/ical/debian.ics">un flux iCal</a> et un
-        <a href="http://lists.lugs.ch/reminder.cgi">rappel par e-mail</a>.</p>
+        Le LUGS maintient un <a href="https://www.lugs.ch/lugs/termine/">calendrier</a> comprenant <a href="https://www.lugs.ch/lugs/termine/ical/debian.ics">un flux iCal</a> et un
+        <a href="https://lists.lugs.ch/reminder.cgi">rappel par e-mail</a>.</p>
 
         <h2>Matériel promotionnel</h2>
 
@@ -72,7 +72,7 @@
 
         <p>Veuillez noter que par manque de ressources, <b>debian.ch ne fournit
         pas de support pour Debian GNU/Linux</b>. Vous pouvez consulter <a
-        href="http://www.debian.org/support">le site web de Debian</a> pour
+        href="https://www.debian.org/support">le site web de Debian</a> pour
         connaître les moyens d'obtenir du support (commercial ou gratuit).</p>
 
     </body>
