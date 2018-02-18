@@ -13,3 +13,8 @@ production:
     cd /var/www/ &&
     git pull
     "
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
