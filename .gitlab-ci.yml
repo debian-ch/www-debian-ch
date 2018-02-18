@@ -13,6 +13,10 @@ production:
     cd /var/www/ &&
     git pull
     "
+pages:
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
   artifacts:
     paths:
     - public
