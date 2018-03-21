@@ -56,7 +56,7 @@ var S = {
   women: {
 	L: 0, // 120x170
 	M: 0, // Message-Id: <42AE6527-DC3A-4E26-8287-C9193D97541D@gmail.com> was interested in getting some of these.
-	S: 62,	//31x45
+	S: 60,	//31x45
 	XS: 22,	//30x42
   },
   horned: {
