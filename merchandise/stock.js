@@ -1,10 +1,10 @@
 // T for T-shirts
 var T = {
   classic: {
-	XL: 2,
-	L: 4,
-	M: 4,
-	S: 4,
+	XL: 0,
+	L: 3,
+	M: 3,
+	S: 3,
 	XS: 0
   },
   fusion: {
@@ -50,30 +50,30 @@ var S = {
   swirl: {
 	L: 0,	// Large no moar
 	M: 0,
-	S: 2,	// A: 31x40
+	S: 0,	// 31x40
 	XS: 0,
   },
   women: {
 	L: 0, // 120x170
 	M: 0, // Message-Id: <42AE6527-DC3A-4E26-8287-C9193D97541D@gmail.com> was interested in getting some of these.
-	S: 60,	//31x45
-	XS: 22,	//30x42
+	S: 57,	// A: 31x45
+	XS: 22,	// A: 30x42
   },
   horned: {
 	L: 0,
 	M: 0,
-	S: 3,	// 38x40
-	XS: 16, // 30x32
+	S: 0,	// 38x40
+	XS: 12, // 30x32
   },
   word_white: {
 	L: 0,
 	M: 0,
-	S: 43,  // C
+	S: 43,  // B
   },
   word_black: {
 	L: 0,
 	M: 0,
-	S: 42, // B
+	S: 42, // C
   }
 }
 
