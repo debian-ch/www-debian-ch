@@ -48,7 +48,7 @@
         and we will link to them!</p>
 
         <p>Please also have a look at the <a
-            href="http://wiki.debian.org/Merchandise">general Debian
+            href="https://wiki.debian.org/Merchandise">general Debian
                 merchandise wiki page</a>.</p>
 
         <div id="tshirts-whole">
@@ -75,75 +75,12 @@
                         <a href="img/tshirts/debian.ch_back_Lixette-Akira-OdyX.jpg">3</a></td>
                     <td id="T_classic" class="stock">!no-js!</td>
                 </tr>
-                <tr> <!-- added: 2009.02.23 gismo -->
-                    <td><a
-                        href="img/tshirts/debian.ch_fusion.png"><img
-                        src="img/tshirts/debian.ch_fusion.png"
-                        alt="debian.ch fusion design" />
-                        debian.ch fusion</a></td>
-                    <td>25 CHF</td>
-                    <td><a href="img/tshirts/debian.ch_fusion_Lixette.jpg">1</a>
-                        <a href="img/tshirts/debian.ch_fusion_Gismo.jpg">2</a></td>
-                    <td id="T_fusion" class="stock">!no-js!</td>
-                </tr>
-                <tr> <!-- added: 2009.02.23 gismo -->
-                    <td><a
-                        href="img/tshirts/apt-get_install_anarchism.png"><img
-                        src="img/tshirts/apt-get_install_anarchism.png"
-                        alt="apt-get install anarchism design" />
-                        apt-get install anarchism</a></td>
-                    <td>25 CHF</td>
-                    <td><a href="img/tshirts/apt-get_install_anarchism_Patrick.jpg">1</a>
-                        <a href="img/tshirts/apt-get_install_anarchism_Chen-Da-Patrick.jpg">2</a></td>
-                    <td id="T_anarchism" class="stock">!no-js!</td>
-                </tr>
-                <tr> <!-- added: 2011.02.13 gismo -->
-                    <td><a
-                        href="img/tshirts/spacefun_squeeze.png"><img
-                        src="img/tshirts/spacefun_squeeze.png"
-                        alt="Space Fun (6.0.0/squeeze theme) design" />
-                        Space Fun (6.0.0/squeeze theme, blue or black)</a></td>
-                    <td>25 CHF</td>
-                    <td><a href="img/tshirts/spacefun_squeeze_blue_front_Julien.jpg">1</a>
-                        <a href="img/tshirts/spacefun_squeeze_blue_back_Julien.jpg">2</a>
-                        <a href="img/tshirts/spacefun_squeeze_black_front_Benoit.jpg">3</a>
-                        <a href="img/tshirts/spacefun_squeeze_black_back_Benoit.jpg">4</a></td>
-                    <td id="T_spacefun" class="stock">!no-js!</td>
-                </tr>
             </tbody>
         </table>
 
         <p>Many thanks to Lixette, Akira and OdyX from <a
         href="http://swisslinux.org">Swisslinux.org</a> for the
-        debian.ch pictures!  To Chen-Da and Patrick for the `apt-get
-        install anarchism` ones!  And to Julien and Benoît for the
-        Space Fun!</p>
-
-        </div>
-        <div id="knives-whole">
-	<h2>Swiss knives</h2>
-
-        <p>For each knife, shipping within Switzerland costs 3 CHF,
-        while within Europe it costs 8 CHF.</p>
-
-	<table id="knives">
-	    <thead>
-		<tr><td>Design</td><td>Price</td><td>Stock</td></tr>
-	    </thead>
-	    <tbody>
-		<tr> <!-- added: 2013.01.08 OdyX -->
-	            <td><a
-                        href="img/knives/debian_knife_black.jpg"><img
-                        src="img/knives/debian_knife_black.jpg"
-                        alt="Couteau suisse debian noir" /> Victorinox CyberTool 29</a></td>
-		    <td>70 CHF</td>
-                    <td class="stock">
-                        Black: <span id="K_black">!no-js!</span><br />
-                        Blue: <span id="K_blue">!no-js!</span>
-                    </td>
-		</tr>
-	    </tbody>
-	</table>
+        debian.ch pictures!</p>
 
         </div>
         <h2>Foilstickers</h2>
@@ -161,19 +98,6 @@
                     shots</td><td>Stock</td></tr>
             </thead>
             <tbody>
-                <!-- added: 2009.02.23 gismo -->
-                <tr>
-                    <td rowspan="1"><a
-                        href="img/foilstickers/Debian_swirl.png"><img
-                        src="img/foilstickers/Debian_swirl.png"
-                        alt="Debian swirl design" /> Debian plain
-                        swirl</a></td>
-                    <td>31 x 40 mm</td>
-                    <td>2 CHF</td>
-                    <td><a href="img/foilstickers/Debian_swirl_Openmoko-FreeRunner.jpg">1</a>
-                        <a href="img/foilstickers/bike_swirl.640.jpg">2</a></td>
-                    <td id="S_swirl_S" class="stock">!no-js!</td>
-                </tr>
                 <!-- added: 2009.02.23 gismo -->
                 <tr>
                     <td rowspan="2"><a
