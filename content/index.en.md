@@ -17,14 +17,14 @@ You can reach debian.ch by:
 
 Bank details:
 
-*   Account for donations from Switzerland:
-    PostFinance account _85-361360-7_, clearing-no. _9000_, under the name of _debian.ch_.
+*   Account for donations from Switzerland:<br />
+    PostFinance account _85-361360-7_, clearing-no. _9000_, under the name of _debian.ch_.<br />
     **Please keep in mind that the post office charges us 1.80 CHF for every cash deposit.**
 *   [International transfers](https://www.postfinance.ch/en/business/products/international-payment-transactions/incoming-payments-foreign-accounts.html) should be directed to:<br />
     IBAN: _CH12 0900 0000 8536 1360 7_<br />
     BIC/SWIFT: _POFICHBEXXX_<br />
-    **Unless you can submit a SEPA-transaction, be aware that an international transfer can be costly. Please understand that we cannot help cover any costs.**
-    The beneficiary's address is the same as the postal address above.
+    **Unless you can submit a SEPA-transaction, be aware that an international transfer can be costly. Please understand that we cannot help cover any costs.**<br />
+    The beneficiary's address is the same as the postal address above.<br />
     The bank's address is:
 
     <address>Swiss Post – PostFinance<br />
