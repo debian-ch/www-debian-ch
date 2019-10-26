@@ -1,9 +1,6 @@
 body {
   width: 36em;
   margin: auto;
-  background-image: url(img/debian-swirl.png);
-  background-position: top left;
-  background-repeat: repeat-y;
 }
 
 #langselect {
