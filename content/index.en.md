@@ -41,10 +41,6 @@ People interested in local activities and information around Debian meet on the 
 
 There is a monthly Debian meetup in Zurich, currently every first Tuesday in the month. Please see [Local Groups: Switzerland](https://wiki.debian.org/LocalGroups#Switzerland) in the Debian Wiki for uptodate details. The LUGS maintains a [calendar](http://www.lugs.ch/lugs/termine/) including an [iCal feed](http://www.lugs.ch/lugs/termine/ical/debian.ics) and an [e-mail reminder](http://lists.lugs.ch/reminder.cgi).
 
-## Merchandise
-
-On behalf of the Debian Project, we produce and sell [select Debian merchandise](merchandise/). All profits go to the Debian Project without deductions.
-
 ## Support
 
 Please note that due to our limited resources, **debian.ch does not provide support for Debian GNU/Linux**. Please see [the Debian web site](http://www.debian.org/support) for ways to get support (both commercial and free).
