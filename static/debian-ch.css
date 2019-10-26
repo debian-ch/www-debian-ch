@@ -1,0 +1,18 @@
+a {
+  color: #d9137a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: underline;
+}
+
+ul {
+    list-style-image: url(img/debian-dot.png);
+}
+
+h1, h2, h3, h4, h5¸ h6 {
+  color: #d9137a;
+}
+

@@ -4,8 +4,6 @@ title = "index"
 
 +++
 
-# ![debian.ch](img/debian_ch-text.png)
-
 debian.ch is the official representation of the [Debian project](https://debian.org/) in Switzerland and in the Principality of Liechtenstein.
 It is a non-profit association under Swiss law ([Articles of Association](articles_of_association.pdf)).
 
