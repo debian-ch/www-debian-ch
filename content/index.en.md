@@ -27,9 +27,9 @@ Bank details:
     The beneficiary's address is the same as the postal address above.<br />
     The bank's address is:
 
-    <address>Swiss Post – PostFinance<br />
-    Nordring 8<br />
-    3030 Berne<br />
+    <address>PostFinance Ltd<br />
+    Mingerstrasse 20<br />
+    3030 Bern<br />
     Switzerland</address>
 
 *   Donation enquiries: [donate<span>@</span>debian<span>.</span>ch](mailto:donate%40debian.ch)
